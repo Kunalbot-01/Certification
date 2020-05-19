@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ShopCluesTests" parallel="tests">
+<listeners>
+	<listener class-name = "generic.CaptureScreenshot" />
+</listeners>
+  
+  <test name="FunctionalityTest-FireFox">
+  <parameter name="browserType" value="firefox"></parameter>
+	  <classes>
+	  	<class name = "TestScripts.LoginFunctionalityTest"/> 
+	  	<class name = "TestScripts.SearchProductsTest"/>
+	 	<class name = "TestScripts.SearchProductsWithRobotClassTest"/>
+	  </classes>
+  </test> 
+  <test name="FunctionalityTest-Chrome">
+  <parameter name="browserType" value="chrome"></parameter>
+	  <classes>
+	  	<class name = "TestScripts.LoginFunctionalityTest"/>
+	  	<class name = "TestScripts.SearchProductsTest"/>
+	  	<class name = "TestScripts.SearchProductsWithRobotClassTest"/>
+	  </classes>
+	 
+  </test> 
+</suite> <!-- HotelSearchTests -->

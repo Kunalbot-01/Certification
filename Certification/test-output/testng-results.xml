@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[*********Test Case 01 *************]]>
+    </line>
+    <line>
+      <![CDATA[Step 1 - Verify title of the homepage.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+expected title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off]]>
+    </line>
+    <line>
+      <![CDATA[Step 2 - Click on the Hotels link from the top.]]>
+    </line>
+    <line>
+      <![CDATA[Hotel link is clicked from the Home page.]]>
+    </line>
+    <line>
+      <![CDATA[Step 3 - Verify the title of the Hotel homepage.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo
+expected title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo]]>
+    </line>
+    <line>
+      <![CDATA[Step 4 - Set the search criteria to search hotels and click Search Hotels button.]]>
+    </line>
+    <line>
+      <![CDATA[Setting up search criteria on Hotel Search page.]]>
+    </line>
+    <line>
+      <![CDATA[Ooty
+City
+569 Hotels is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Location Ooty sent to text box and first option offerred is selected]]>
+    </line>
+    <line>
+      <![CDATA[Check In day is 18 month is April Check Out day is 19]]>
+    </line>
+    <line>
+      <![CDATA[Verifying guest count. Expected guest count is 1 actual is 1]]>
+    </line>
+    <line>
+      <![CDATA[Verifying room count. Expected room count is 1 actual is 1]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the search hotels from Hotle Search page.]]>
+    </line>
+    <line>
+      <![CDATA[Step 5 - Verify the title of the Results page.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Results
+expected title is Results]]>
+    </line>
+    <line>
+      <![CDATA[Step 6 - Get the first hotel name and count number of hotels.]]>
+    </line>
+    <line>
+      <![CDATA[First Hotel name found in Results is Mountain Trails]]>
+    </line>
+    <line>
+      <![CDATA[Hotel name is Mountain Trails]]>
+    </line>
+    <line>
+      <![CDATA[Hotel count is 569]]>
+    </line>
+    <line>
+      <![CDATA[***********************************Test Case 02********************************]]>
+    </line>
+    <line>
+      <![CDATA[Step 1 - Verify title of the homepage.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+expected title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off]]>
+    </line>
+    <line>
+      <![CDATA[Step 2 - Click on the Hotels link from the top.]]>
+    </line>
+    <line>
+      <![CDATA[Hotel link is clicked from the Home page.]]>
+    </line>
+    <line>
+      <![CDATA[Step 3 - Verify the title of the Hotel homepage.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo
+expected title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo]]>
+    </line>
+    <line>
+      <![CDATA[Step 4 - Set the search criteria to search hotels and click Search Hotels button.]]>
+    </line>
+    <line>
+      <![CDATA[Setting up search criteria on Hotel Search page.]]>
+    </line>
+    <line>
+      <![CDATA[Noida
+City
+430 Hotels is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Location Noida sent to text box and first option offerred is selected]]>
+    </line>
+    <line>
+      <![CDATA[Check In day is 22 month is April Check Out day is 25]]>
+    </line>
+    <line>
+      <![CDATA[Verifying guest count. Expected guest count is 1 actual is 1]]>
+    </line>
+    <line>
+      <![CDATA[Verifying room count. Expected room count is 1 actual is 1]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the search hotels from Hotle Search page.]]>
+    </line>
+    <line>
+      <![CDATA[Step 5 - Verify the title of the Results page.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Results
+expected title is Results]]>
+    </line>
+    <line>
+      <![CDATA[Step 6 - Get the first hotel name and count number of hotels.]]>
+    </line>
+    <line>
+      <![CDATA[First Hotel name found in Results is Hotel Vizima Palace]]>
+    </line>
+    <line>
+      <![CDATA[Hotel name is Hotel Vizima Palace]]>
+    </line>
+    <line>
+      <![CDATA[Step 7 - Click on the hotel appeared first in the result set.]]>
+    </line>
+    <line>
+      <![CDATA[Parent Window handle is CDwindow-50E9ED61670B1D4CEB98667AD8B7504E]]>
+    </line>
+    <line>
+      <![CDATA[Child window handle is CDwindow-40572864A213A40F8AF96D35278793B8]]>
+    </line>
+    <line>
+      <![CDATA[First hotel from the search result has been clicked.]]>
+    </line>
+    <line>
+      <![CDATA[Step 8 - Verify the title of the hotel detail page.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Hotel Vizima Palace Noida - Reviews, Photos & Offers
+expected title is Hotel Vizima Palace]]>
+    </line>
+    <line>
+      <![CDATA[Step 9 - Verify the name of the hotel is same as it was on the previous page.]]>
+    </line>
+    <line>
+      <![CDATA[Hotel name from previous page: Hotel Vizima Palace and from detail page: Hotel Vizima Palace matches.]]>
+    </line>
+    <line>
+      <![CDATA[Step 10 - Click on room options and select the first room option.]]>
+    </line>
+    <line>
+      <![CDATA[Step 11 - Verify the title of the review booking page.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Book Cheap Flights, Air Tickets, Hotels, Bus & Holiday Package at Goibibo
+expected title is Book Cheap Flights, Air Tickets, Hotels, Bus & Holiday Package at Goibibo]]>
+    </line>
+    <line>
+      <![CDATA[Step 12 - Verify the name of the hotel is same as it was on the previous page.]]>
+    </line>
+    <line>
+      <![CDATA[Hotel name from review page is Hotel Vizima Palace]]>
+    </line>
+    <line>
+      <![CDATA[Hotel name from previous page: Hotel Vizima Palace and from review page: Hotel Vizima Palace matches.]]>
+    </line>
+    <line>
+      <![CDATA[Step 13 - Verify the room type option and check-in details are same as it was on the previous page.]]>
+    </line>
+    <line>
+      <![CDATA[On Review page; Room type is Classic Room]]>
+    </line>
+    <line>
+      <![CDATA[Room Type from previous page: Classic Room and from review page: Classic Room matches.]]>
+    </line>
+    <line>
+      <![CDATA[Step 14 - Enter the guest details and click on payment options button.]]>
+    </line>
+    <line>
+      <![CDATA[Review page: guest details entered is: First Name = TestFirst Last Name = TestLast Email = test@gmail.com Mobile No.= 9087654387 Expected check-in time =  Special Request Text = Veg please]]>
+    </line>
+    <line>
+      <![CDATA[Payment Options button has been clicked having text: Proceed To Payment Options]]>
+    </line>
+    <line>
+      <![CDATA[Step 15 - Verify the title of Payment Page.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Book Cheap Flights, Air Tickets, Hotels, Bus & Holiday Package at Goibibo
+expected title is Book Cheap Flights, Air Tickets, Hotels, Bus & Holiday Package at Goibibo]]>
+    </line>
+    <line>
+      <![CDATA[Step 16 - Set the card details and click on pay button.]]>
+    </line>
+    <line>
+      <![CDATA[Payment Page-Card details entered; Card number:= 371449635398431 Name on Card:= John Smith
+Expiry month and year:= 10/22 CVV number= 3569]]>
+    </line>
+    <line>
+      <![CDATA[Pay button is clicked and button's text is Pay ₹6,920]]>
+    </line>
+    <line>
+      <![CDATA[Step 17 - Verify the title of confirm Pages.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is American Express SafeKey
+expected title is American Express SafeKey]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is SafeKey
+expected title is SafeKey]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Thank you for choosing Goibibo.
+expected title is Thank you for choosing Goibibo.]]>
+    </line>
+    <line>
+      <![CDATA[Step 18 - Verify the error message.]]>
+    </line>
+    <line>
+      <![CDATA[Error message showing up on confirmation page is We are sorry but the transaction failed.]]>
+    </line>
+    <line>
+      <![CDATA[***********************************Test Case 03********************************]]>
+    </line>
+    <line>
+      <![CDATA[Step 1 - Verify title of the homepage.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+expected title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off]]>
+    </line>
+    <line>
+      <![CDATA[Step 2 - Click on the Hotels link from the top.]]>
+    </line>
+    <line>
+      <![CDATA[Hotel link is clicked from the Home page.]]>
+    </line>
+    <line>
+      <![CDATA[Step 3 - Verify the title of the Hotel homepage.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo
+expected title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo]]>
+    </line>
+    <line>
+      <![CDATA[Step 4 - Set the search criteria to search hotels and click Search Hotels button.]]>
+    </line>
+    <line>
+      <![CDATA[Setting up search criteria on Hotel Search page.]]>
+    </line>
+    <line>
+      <![CDATA[Faridabad
+City
+177 Hotels is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Location Faridabad sent to text box and first option offerred is selected]]>
+    </line>
+    <line>
+      <![CDATA[Verifying guest count. Expected guest count is 3 actual is 3]]>
+    </line>
+    <line>
+      <![CDATA[Verifying room count. Expected room count is 1 actual is 1]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the search hotels from Hotle Search page.]]>
+    </line>
+    <line>
+      <![CDATA[Step 5 - Verify the title of the Results page.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Results
+expected title is Results]]>
+    </line>
+    <line>
+      <![CDATA[Step 6 - Get the first hotel name and count number of hotels.]]>
+    </line>
+    <line>
+      <![CDATA[First Hotel name found in Results is Ginger Faridabad]]>
+    </line>
+    <line>
+      <![CDATA[Hotel name is Ginger Faridabad]]>
+    </line>
+    <line>
+      <![CDATA[Step 7 - Click on the hotel appeared first in the result set.]]>
+    </line>
+    <line>
+      <![CDATA[Parent Window handle is CDwindow-D9A150DD040F48F9F676FA93F3AE57F8]]>
+    </line>
+    <line>
+      <![CDATA[Child window handle is CDwindow-9CE1E42D9ECA7494DFCAEBB330C36252]]>
+    </line>
+    <line>
+      <![CDATA[First hotel from the search result has been clicked.]]>
+    </line>
+    <line>
+      <![CDATA[Step 8 - Verify the title of the hotel detail page.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Ginger Faridabad Hotel Faridabad - Reviews, Photos & Offers
+expected title is Ginger Faridabad]]>
+    </line>
+    <line>
+      <![CDATA[Step 9 - Verify the name of the hotel is same as it was on the previous page.]]>
+    </line>
+    <line>
+      <![CDATA[Hotel name from previous page: Ginger Faridabad and from detail page: Ginger Faridabad matches.]]>
+    </line>
+    <line>
+      <![CDATA[Step 10 - Click on room options button.]]>
+    </line>
+    <line>
+      <![CDATA[Step 11 - Take the screenshot.]]>
+    </line>
+    <line>
+      <![CDATA[***Placed screen shot in .//Screenshots// ***]]>
+    </line>
+    <line>
+      <![CDATA[Step 12 - Click on location link and verify section appears.]]>
+    </line>
+    <line>
+      <![CDATA[Location link is clicked.]]>
+    </line>
+    <line>
+      <![CDATA[Location image is present.]]>
+    </line>
+    <line>
+      <![CDATA[Step 13 - Click on Guest Reviews link and verify section appears.]]>
+    </line>
+    <line>
+      <![CDATA[Guest reviews link is clicked.]]>
+    </line>
+    <line>
+      <![CDATA[Guest review section is present.]]>
+    </line>
+    <line>
+      <![CDATA[Step 14 - Click on Questions and Answers link and verify section appears.]]>
+    </line>
+    <line>
+      <![CDATA[Questions and Answers link is clicked.]]>
+    </line>
+    <line>
+      <![CDATA[Questions and Answers section is present.]]>
+    </line>
+    <line>
+      <![CDATA[Step 15 - Click on Hotel Policies link and verify section appears.]]>
+    </line>
+    <line>
+      <![CDATA[Hotel policies link is clicked.]]>
+    </line>
+    <line>
+      <![CDATA[Hotel policies section is present.]]>
+    </line>
+    <line>
+      <![CDATA[***********************************Test Case 04********************************]]>
+    </line>
+    <line>
+      <![CDATA[*********Test Case 01 *************]]>
+    </line>
+    <line>
+      <![CDATA[Step 1 - Verify title of the homepage.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+expected title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off]]>
+    </line>
+    <line>
+      <![CDATA[Step 2 - Click on the Hotels link from the top.]]>
+    </line>
+    <line>
+      <![CDATA[Hotel link is clicked from the Home page.]]>
+    </line>
+    <line>
+      <![CDATA[Step 3 - Verify the title of the Hotel homepage.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo
+expected title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo]]>
+    </line>
+    <line>
+      <![CDATA[Step 4 - Set the search criteria to search hotels and click Search Hotels button.]]>
+    </line>
+    <line>
+      <![CDATA[Setting up search criteria on Hotel Search page.]]>
+    </line>
+    <line>
+      <![CDATA[Ooty
+City
+569 Hotels is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Location Ooty sent to text box and first option offerred is selected]]>
+    </line>
+    <line>
+      <![CDATA[Check In day is 18 month is April Check Out day is 19]]>
+    </line>
+    <line>
+      <![CDATA[Verifying guest count. Expected guest count is 1 actual is 1]]>
+    </line>
+    <line>
+      <![CDATA[Verifying room count. Expected room count is 1 actual is 1]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the search hotels from Hotle Search page.]]>
+    </line>
+    <line>
+      <![CDATA[Step 5 - Verify the title of the Results page.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Results
+expected title is Results]]>
+    </line>
+    <line>
+      <![CDATA[Step 6 - Get the first hotel name and count number of hotels.]]>
+    </line>
+    <line>
+      <![CDATA[First Hotel name found in Results is Mountain Trails]]>
+    </line>
+    <line>
+      <![CDATA[Hotel name is Mountain Trails]]>
+    </line>
+    <line>
+      <![CDATA[Hotel count is 569]]>
+    </line>
+    <line>
+      <![CDATA[Step 7 - Apply 'Pay At Hotel' filter]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Pay at Hotel checkbox under popular filters.]]>
+    </line>
+    <line>
+      <![CDATA[Step 8 - Apply 'Price range-2nd option' filter]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Price range second checkbox under price range filters.]]>
+    </line>
+    <line>
+      <![CDATA[Step 9 - Apply 'Rating=4' filter]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on rating 4 and above under Ratings section.]]>
+    </line>
+    <line>
+      <![CDATA[Step 10 - verify rating and price for the hotel on the search result page.]]>
+    </line>
+    <line>
+      <![CDATA[Price 2466 Showing up on hotel kumaran cottage is within the range 2001 - 4000]]>
+    </line>
+    <line>
+      <![CDATA[Rating 4.6 Showing up for hotel kumaran cottage is greater than 4]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-04-13T20:19:39 EDT" name="HotelSearchTests" finished-at="2020-04-13T20:22:09 EDT" duration-ms="149386">
+    <groups>
+    </groups>
+    <test started-at="2020-04-13T20:19:39 EDT" name="FunctionalityTest" finished-at="2020-04-13T20:22:09 EDT" duration-ms="149386">
+      <class name="TestScripts.HotelSearchTest">
+        <test-method is-config="true" signature="launchApp(java.lang.String)[pri:0, instance:TestScripts.HotelSearchTest@37f1104d]" started-at="2020-04-13T20:19:39 EDT" name="launchApp" finished-at="2020-04-13T20:19:53 EDT" duration-ms="14087" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="testCase1()[pri:0, instance:TestScripts.HotelSearchTest@37f1104d]" started-at="2020-04-13T20:19:53 EDT" name="testCase1" finished-at="2020-04-13T20:20:01 EDT" duration-ms="8075" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[*********Test Case 01 *************]]>
+            </line>
+            <line>
+              <![CDATA[Step 1 - Verify title of the homepage.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+expected title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off]]>
+            </line>
+            <line>
+              <![CDATA[Step 2 - Click on the Hotels link from the top.]]>
+            </line>
+            <line>
+              <![CDATA[Hotel link is clicked from the Home page.]]>
+            </line>
+            <line>
+              <![CDATA[Step 3 - Verify the title of the Hotel homepage.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo
+expected title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo]]>
+            </line>
+            <line>
+              <![CDATA[Step 4 - Set the search criteria to search hotels and click Search Hotels button.]]>
+            </line>
+            <line>
+              <![CDATA[Setting up search criteria on Hotel Search page.]]>
+            </line>
+            <line>
+              <![CDATA[Ooty
+City
+569 Hotels is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Location Ooty sent to text box and first option offerred is selected]]>
+            </line>
+            <line>
+              <![CDATA[Check In day is 18 month is April Check Out day is 19]]>
+            </line>
+            <line>
+              <![CDATA[Verifying guest count. Expected guest count is 1 actual is 1]]>
+            </line>
+            <line>
+              <![CDATA[Verifying room count. Expected room count is 1 actual is 1]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the search hotels from Hotle Search page.]]>
+            </line>
+            <line>
+              <![CDATA[Step 5 - Verify the title of the Results page.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Results
+expected title is Results]]>
+            </line>
+            <line>
+              <![CDATA[Step 6 - Get the first hotel name and count number of hotels.]]>
+            </line>
+            <line>
+              <![CDATA[First Hotel name found in Results is Mountain Trails]]>
+            </line>
+            <line>
+              <![CDATA[Hotel name is Mountain Trails]]>
+            </line>
+            <line>
+              <![CDATA[Hotel count is 569]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestScripts.HotelSearchTest@37f1104d]" started-at="2020-04-13T20:20:01 EDT" name="closeApp" finished-at="2020-04-13T20:20:02 EDT" duration-ms="933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method is-config="true" signature="launchApp(java.lang.String)[pri:0, instance:TestScripts.HotelSearchTest@37f1104d]" started-at="2020-04-13T20:20:02 EDT" name="launchApp" finished-at="2020-04-13T20:20:14 EDT" duration-ms="11938" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="testCase2()[pri:0, instance:TestScripts.HotelSearchTest@37f1104d]" started-at="2020-04-13T20:20:14 EDT" name="testCase2" finished-at="2020-04-13T20:21:16 EDT" duration-ms="61549" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[***********************************Test Case 02********************************]]>
+            </line>
+            <line>
+              <![CDATA[Step 1 - Verify title of the homepage.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+expected title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off]]>
+            </line>
+            <line>
+              <![CDATA[Step 2 - Click on the Hotels link from the top.]]>
+            </line>
+            <line>
+              <![CDATA[Hotel link is clicked from the Home page.]]>
+            </line>
+            <line>
+              <![CDATA[Step 3 - Verify the title of the Hotel homepage.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo
+expected title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo]]>
+            </line>
+            <line>
+              <![CDATA[Step 4 - Set the search criteria to search hotels and click Search Hotels button.]]>
+            </line>
+            <line>
+              <![CDATA[Setting up search criteria on Hotel Search page.]]>
+            </line>
+            <line>
+              <![CDATA[Noida
+City
+430 Hotels is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Location Noida sent to text box and first option offerred is selected]]>
+            </line>
+            <line>
+              <![CDATA[Check In day is 22 month is April Check Out day is 25]]>
+            </line>
+            <line>
+              <![CDATA[Verifying guest count. Expected guest count is 1 actual is 1]]>
+            </line>
+            <line>
+              <![CDATA[Verifying room count. Expected room count is 1 actual is 1]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the search hotels from Hotle Search page.]]>
+            </line>
+            <line>
+              <![CDATA[Step 5 - Verify the title of the Results page.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Results
+expected title is Results]]>
+            </line>
+            <line>
+              <![CDATA[Step 6 - Get the first hotel name and count number of hotels.]]>
+            </line>
+            <line>
+              <![CDATA[First Hotel name found in Results is Hotel Vizima Palace]]>
+            </line>
+            <line>
+              <![CDATA[Hotel name is Hotel Vizima Palace]]>
+            </line>
+            <line>
+              <![CDATA[Step 7 - Click on the hotel appeared first in the result set.]]>
+            </line>
+            <line>
+              <![CDATA[Parent Window handle is CDwindow-50E9ED61670B1D4CEB98667AD8B7504E]]>
+            </line>
+            <line>
+              <![CDATA[Child window handle is CDwindow-40572864A213A40F8AF96D35278793B8]]>
+            </line>
+            <line>
+              <![CDATA[First hotel from the search result has been clicked.]]>
+            </line>
+            <line>
+              <![CDATA[Step 8 - Verify the title of the hotel detail page.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Hotel Vizima Palace Noida - Reviews, Photos & Offers
+expected title is Hotel Vizima Palace]]>
+            </line>
+            <line>
+              <![CDATA[Step 9 - Verify the name of the hotel is same as it was on the previous page.]]>
+            </line>
+            <line>
+              <![CDATA[Hotel name from previous page: Hotel Vizima Palace and from detail page: Hotel Vizima Palace matches.]]>
+            </line>
+            <line>
+              <![CDATA[Step 10 - Click on room options and select the first room option.]]>
+            </line>
+            <line>
+              <![CDATA[Step 11 - Verify the title of the review booking page.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Book Cheap Flights, Air Tickets, Hotels, Bus & Holiday Package at Goibibo
+expected title is Book Cheap Flights, Air Tickets, Hotels, Bus & Holiday Package at Goibibo]]>
+            </line>
+            <line>
+              <![CDATA[Step 12 - Verify the name of the hotel is same as it was on the previous page.]]>
+            </line>
+            <line>
+              <![CDATA[Hotel name from review page is Hotel Vizima Palace]]>
+            </line>
+            <line>
+              <![CDATA[Hotel name from previous page: Hotel Vizima Palace and from review page: Hotel Vizima Palace matches.]]>
+            </line>
+            <line>
+              <![CDATA[Step 13 - Verify the room type option and check-in details are same as it was on the previous page.]]>
+            </line>
+            <line>
+              <![CDATA[On Review page; Room type is Classic Room]]>
+            </line>
+            <line>
+              <![CDATA[Room Type from previous page: Classic Room and from review page: Classic Room matches.]]>
+            </line>
+            <line>
+              <![CDATA[Step 14 - Enter the guest details and click on payment options button.]]>
+            </line>
+            <line>
+              <![CDATA[Review page: guest details entered is: First Name = TestFirst Last Name = TestLast Email = test@gmail.com Mobile No.= 9087654387 Expected check-in time =  Special Request Text = Veg please]]>
+            </line>
+            <line>
+              <![CDATA[Payment Options button has been clicked having text: Proceed To Payment Options]]>
+            </line>
+            <line>
+              <![CDATA[Step 15 - Verify the title of Payment Page.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Book Cheap Flights, Air Tickets, Hotels, Bus & Holiday Package at Goibibo
+expected title is Book Cheap Flights, Air Tickets, Hotels, Bus & Holiday Package at Goibibo]]>
+            </line>
+            <line>
+              <![CDATA[Step 16 - Set the card details and click on pay button.]]>
+            </line>
+            <line>
+              <![CDATA[Payment Page-Card details entered; Card number:= 371449635398431 Name on Card:= John Smith
+Expiry month and year:= 10/22 CVV number= 3569]]>
+            </line>
+            <line>
+              <![CDATA[Pay button is clicked and button's text is Pay ₹6,920]]>
+            </line>
+            <line>
+              <![CDATA[Step 17 - Verify the title of confirm Pages.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is American Express SafeKey
+expected title is American Express SafeKey]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is SafeKey
+expected title is SafeKey]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Thank you for choosing Goibibo.
+expected title is Thank you for choosing Goibibo.]]>
+            </line>
+            <line>
+              <![CDATA[Step 18 - Verify the error message.]]>
+            </line>
+            <line>
+              <![CDATA[Error message showing up on confirmation page is We are sorry but the transaction failed.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestScripts.HotelSearchTest@37f1104d]" started-at="2020-04-13T20:21:16 EDT" name="closeApp" finished-at="2020-04-13T20:21:17 EDT" duration-ms="760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method is-config="true" signature="launchApp(java.lang.String)[pri:0, instance:TestScripts.HotelSearchTest@37f1104d]" started-at="2020-04-13T20:21:17 EDT" name="launchApp" finished-at="2020-04-13T20:21:29 EDT" duration-ms="12852" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="testCase3()[pri:0, instance:TestScripts.HotelSearchTest@37f1104d]" started-at="2020-04-13T20:21:29 EDT" name="testCase3" finished-at="2020-04-13T20:21:44 EDT" duration-ms="14995" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[***********************************Test Case 03********************************]]>
+            </line>
+            <line>
+              <![CDATA[Step 1 - Verify title of the homepage.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+expected title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off]]>
+            </line>
+            <line>
+              <![CDATA[Step 2 - Click on the Hotels link from the top.]]>
+            </line>
+            <line>
+              <![CDATA[Hotel link is clicked from the Home page.]]>
+            </line>
+            <line>
+              <![CDATA[Step 3 - Verify the title of the Hotel homepage.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo
+expected title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo]]>
+            </line>
+            <line>
+              <![CDATA[Step 4 - Set the search criteria to search hotels and click Search Hotels button.]]>
+            </line>
+            <line>
+              <![CDATA[Setting up search criteria on Hotel Search page.]]>
+            </line>
+            <line>
+              <![CDATA[Faridabad
+City
+177 Hotels is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Location Faridabad sent to text box and first option offerred is selected]]>
+            </line>
+            <line>
+              <![CDATA[Verifying guest count. Expected guest count is 3 actual is 3]]>
+            </line>
+            <line>
+              <![CDATA[Verifying room count. Expected room count is 1 actual is 1]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the search hotels from Hotle Search page.]]>
+            </line>
+            <line>
+              <![CDATA[Step 5 - Verify the title of the Results page.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Results
+expected title is Results]]>
+            </line>
+            <line>
+              <![CDATA[Step 6 - Get the first hotel name and count number of hotels.]]>
+            </line>
+            <line>
+              <![CDATA[First Hotel name found in Results is Ginger Faridabad]]>
+            </line>
+            <line>
+              <![CDATA[Hotel name is Ginger Faridabad]]>
+            </line>
+            <line>
+              <![CDATA[Step 7 - Click on the hotel appeared first in the result set.]]>
+            </line>
+            <line>
+              <![CDATA[Parent Window handle is CDwindow-D9A150DD040F48F9F676FA93F3AE57F8]]>
+            </line>
+            <line>
+              <![CDATA[Child window handle is CDwindow-9CE1E42D9ECA7494DFCAEBB330C36252]]>
+            </line>
+            <line>
+              <![CDATA[First hotel from the search result has been clicked.]]>
+            </line>
+            <line>
+              <![CDATA[Step 8 - Verify the title of the hotel detail page.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Ginger Faridabad Hotel Faridabad - Reviews, Photos & Offers
+expected title is Ginger Faridabad]]>
+            </line>
+            <line>
+              <![CDATA[Step 9 - Verify the name of the hotel is same as it was on the previous page.]]>
+            </line>
+            <line>
+              <![CDATA[Hotel name from previous page: Ginger Faridabad and from detail page: Ginger Faridabad matches.]]>
+            </line>
+            <line>
+              <![CDATA[Step 10 - Click on room options button.]]>
+            </line>
+            <line>
+              <![CDATA[Step 11 - Take the screenshot.]]>
+            </line>
+            <line>
+              <![CDATA[***Placed screen shot in .//Screenshots// ***]]>
+            </line>
+            <line>
+              <![CDATA[Step 12 - Click on location link and verify section appears.]]>
+            </line>
+            <line>
+              <![CDATA[Location link is clicked.]]>
+            </line>
+            <line>
+              <![CDATA[Location image is present.]]>
+            </line>
+            <line>
+              <![CDATA[Step 13 - Click on Guest Reviews link and verify section appears.]]>
+            </line>
+            <line>
+              <![CDATA[Guest reviews link is clicked.]]>
+            </line>
+            <line>
+              <![CDATA[Guest review section is present.]]>
+            </line>
+            <line>
+              <![CDATA[Step 14 - Click on Questions and Answers link and verify section appears.]]>
+            </line>
+            <line>
+              <![CDATA[Questions and Answers link is clicked.]]>
+            </line>
+            <line>
+              <![CDATA[Questions and Answers section is present.]]>
+            </line>
+            <line>
+              <![CDATA[Step 15 - Click on Hotel Policies link and verify section appears.]]>
+            </line>
+            <line>
+              <![CDATA[Hotel policies link is clicked.]]>
+            </line>
+            <line>
+              <![CDATA[Hotel policies section is present.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestScripts.HotelSearchTest@37f1104d]" started-at="2020-04-13T20:21:44 EDT" name="closeApp" finished-at="2020-04-13T20:21:45 EDT" duration-ms="858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method is-config="true" signature="launchApp(java.lang.String)[pri:0, instance:TestScripts.HotelSearchTest@37f1104d]" started-at="2020-04-13T20:21:45 EDT" name="launchApp" finished-at="2020-04-13T20:21:57 EDT" duration-ms="11984" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="testCase4()[pri:0, instance:TestScripts.HotelSearchTest@37f1104d]" started-at="2020-04-13T20:21:57 EDT" name="testCase4" finished-at="2020-04-13T20:22:08 EDT" duration-ms="10463" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[***********************************Test Case 04********************************]]>
+            </line>
+            <line>
+              <![CDATA[*********Test Case 01 *************]]>
+            </line>
+            <line>
+              <![CDATA[Step 1 - Verify title of the homepage.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+expected title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off]]>
+            </line>
+            <line>
+              <![CDATA[Step 2 - Click on the Hotels link from the top.]]>
+            </line>
+            <line>
+              <![CDATA[Hotel link is clicked from the Home page.]]>
+            </line>
+            <line>
+              <![CDATA[Step 3 - Verify the title of the Hotel homepage.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo
+expected title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo]]>
+            </line>
+            <line>
+              <![CDATA[Step 4 - Set the search criteria to search hotels and click Search Hotels button.]]>
+            </line>
+            <line>
+              <![CDATA[Setting up search criteria on Hotel Search page.]]>
+            </line>
+            <line>
+              <![CDATA[Ooty
+City
+569 Hotels is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Location Ooty sent to text box and first option offerred is selected]]>
+            </line>
+            <line>
+              <![CDATA[Check In day is 18 month is April Check Out day is 19]]>
+            </line>
+            <line>
+              <![CDATA[Verifying guest count. Expected guest count is 1 actual is 1]]>
+            </line>
+            <line>
+              <![CDATA[Verifying room count. Expected room count is 1 actual is 1]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the search hotels from Hotle Search page.]]>
+            </line>
+            <line>
+              <![CDATA[Step 5 - Verify the title of the Results page.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Results
+expected title is Results]]>
+            </line>
+            <line>
+              <![CDATA[Step 6 - Get the first hotel name and count number of hotels.]]>
+            </line>
+            <line>
+              <![CDATA[First Hotel name found in Results is Mountain Trails]]>
+            </line>
+            <line>
+              <![CDATA[Hotel name is Mountain Trails]]>
+            </line>
+            <line>
+              <![CDATA[Hotel count is 569]]>
+            </line>
+            <line>
+              <![CDATA[Step 7 - Apply 'Pay At Hotel' filter]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Pay at Hotel checkbox under popular filters.]]>
+            </line>
+            <line>
+              <![CDATA[Step 8 - Apply 'Price range-2nd option' filter]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Price range second checkbox under price range filters.]]>
+            </line>
+            <line>
+              <![CDATA[Step 9 - Apply 'Rating=4' filter]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on rating 4 and above under Ratings section.]]>
+            </line>
+            <line>
+              <![CDATA[Step 10 - verify rating and price for the hotel on the search result page.]]>
+            </line>
+            <line>
+              <![CDATA[Price 2466 Showing up on hotel kumaran cottage is within the range 2001 - 4000]]>
+            </line>
+            <line>
+              <![CDATA[Rating 4.6 Showing up for hotel kumaran cottage is greater than 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase4 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestScripts.HotelSearchTest@37f1104d]" started-at="2020-04-13T20:22:08 EDT" name="closeApp" finished-at="2020-04-13T20:22:09 EDT" duration-ms="822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- TestScripts.HotelSearchTest -->
+    </test> <!-- FunctionalityTest -->
+  </suite> <!-- HotelSearchTests -->
+</testng-results>

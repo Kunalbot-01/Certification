@@ -1,0 +1,144 @@
+2020-04-13 20:19:54 INFO  BasePage:36 - Given string title Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off contains in expected title; which is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off.
+2020-04-13 20:19:54 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (fc67447ffd1c09aa9a795759cb0c825d)] -> xpath: //ul[@class='mainLinks']//a[contains(@href,'hotels')]] was found
+2020-04-13 20:19:56 INFO  HomePage:39 - Hotel link from main menu is clicked with no issues.
+2020-04-13 20:19:56 INFO  BasePage:36 - Given string title Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo contains in expected title; which is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo.
+2020-04-13 20:19:58 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (fc67447ffd1c09aa9a795759cb0c825d)] -> id: downshift-1-input] was found
+2020-04-13 20:19:59 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (fc67447ffd1c09aa9a795759cb0c825d)] -> xpath: //div[text()='Check-in Date']//following::div[1]] was found
+2020-04-13 20:19:59 INFO  BasePage:141 - Mouse overed on[[ChromeDriver: chrome on WINDOWS (fc67447ffd1c09aa9a795759cb0c825d)] -> xpath: //div[text()='Check-in Date']//following::div[1]]
+2020-04-13 20:19:59 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (fc67447ffd1c09aa9a795759cb0c825d)] -> xpath: //p[starts-with(@class, 'dcalendarstyles__MonthNamePara')]] was found
+2020-04-13 20:19:59 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (fc67447ffd1c09aa9a795759cb0c825d)] -> xpath: //span[text()='18']] was found
+2020-04-13 20:19:59 INFO  HotelsSearchPage:225 - Given date 18 is selected.
+2020-04-13 20:19:59 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (fc67447ffd1c09aa9a795759cb0c825d)] -> xpath: //span[text()='19']] was found
+2020-04-13 20:20:00 INFO  HotelsSearchPage:225 - Given date 19 is selected.
+2020-04-13 20:20:00 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (fc67447ffd1c09aa9a795759cb0c825d)] -> xpath: //input[contains(@class,'CitySearchInput')]] was found
+2020-04-13 20:20:00 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (fc67447ffd1c09aa9a795759cb0c825d)] -> xpath: //span[text()='Rooms']//following-sibling::div/span[@class='PaxWidgetstyles__ContentActionValueWrapperSpan-gv3w6r-6 gpOosi']] was found
+2020-04-13 20:20:00 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (fc67447ffd1c09aa9a795759cb0c825d)] -> xpath: //span[text()='Adults']//following-sibling::div/span[@class='PaxWidgetstyles__ContentActionValueWrapperSpan-gv3w6r-6 gpOosi']] was found
+2020-04-13 20:20:00 INFO  HotelsSearchPage:278 - Room and guest count have been set with no issues.
+2020-04-13 20:20:00 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (fc67447ffd1c09aa9a795759cb0c825d)] -> xpath: //button[@class='SearchBlockUIstyles__SearchButtonAutoSuggest-fity7j-12 kGmYkx']] was found
+2020-04-13 20:20:01 INFO  HotelsSearchPage:83 - Search hotels button is clicked.
+2020-04-13 20:20:01 INFO  BasePage:36 - Given string title Results contains in expected title; which is Results.
+2020-04-13 20:20:01 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (fc67447ffd1c09aa9a795759cb0c825d)] -> xpath: //span[contains(@class,'HotelNameText')]] was found
+2020-04-13 20:20:01 INFO  SearchResultsPage:62 - First Hotel name found in Resultset is Mountain Trails
+2020-04-13 20:20:15 INFO  BasePage:36 - Given string title Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off contains in expected title; which is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off.
+2020-04-13 20:20:15 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //ul[@class='mainLinks']//a[contains(@href,'hotels')]] was found
+2020-04-13 20:20:15 INFO  HomePage:39 - Hotel link from main menu is clicked with no issues.
+2020-04-13 20:20:16 INFO  BasePage:36 - Given string title Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo contains in expected title; which is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo.
+2020-04-13 20:20:17 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> id: downshift-1-input] was found
+2020-04-13 20:20:18 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //div[text()='Check-in Date']//following::div[1]] was found
+2020-04-13 20:20:18 INFO  BasePage:141 - Mouse overed on[[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //div[text()='Check-in Date']//following::div[1]]
+2020-04-13 20:20:19 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //p[starts-with(@class, 'dcalendarstyles__MonthNamePara')]] was found
+2020-04-13 20:20:19 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //span[text()='22']] was found
+2020-04-13 20:20:19 INFO  HotelsSearchPage:225 - Given date 22 is selected.
+2020-04-13 20:20:19 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //span[text()='25']] was found
+2020-04-13 20:20:19 INFO  HotelsSearchPage:225 - Given date 25 is selected.
+2020-04-13 20:20:19 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //input[contains(@class,'CitySearchInput')]] was found
+2020-04-13 20:20:19 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //span[text()='Rooms']//following-sibling::div/span[@class='PaxWidgetstyles__ContentActionValueWrapperSpan-gv3w6r-6 gpOosi']] was found
+2020-04-13 20:20:20 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //span[text()='Adults']//following-sibling::div/span[@class='PaxWidgetstyles__ContentActionValueWrapperSpan-gv3w6r-6 gpOosi']] was found
+2020-04-13 20:20:20 INFO  HotelsSearchPage:278 - Room and guest count have been set with no issues.
+2020-04-13 20:20:20 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[@class='SearchBlockUIstyles__SearchButtonAutoSuggest-fity7j-12 kGmYkx']] was found
+2020-04-13 20:20:20 INFO  HotelsSearchPage:83 - Search hotels button is clicked.
+2020-04-13 20:20:20 INFO  BasePage:36 - Given string title Results contains in expected title; which is Results.
+2020-04-13 20:20:21 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //span[contains(@class,'HotelNameText')]] was found
+2020-04-13 20:20:21 INFO  SearchResultsPage:62 - First Hotel name found in Resultset is Hotel Vizima Palace
+2020-04-13 20:20:21 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //div[@class='HotelCardImageGallerystyles__MainImageWrapperDivStyle-r3dzqu-1 hndaad']/img] was found
+2020-04-13 20:20:21 INFO  SearchResultsPage:126 - Clicked on the first hotels from the search criteria.
+2020-04-13 20:20:26 INFO  BasePage:55 - Given string title Hotel Vizima Palace Noida - Reviews, Photos & Offers contains in expected title; which is Hotel Vizima Palace.
+2020-04-13 20:20:26 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //span[contains(@class,'HotelNameText')]] was found
+2020-04-13 20:20:26 INFO  HotelDetailPage:66 - Hotel name found on Hotel detail page is Hotel Vizima Palace
+2020-04-13 20:20:26 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //div[contains(@class,'RoomFlavor__RoomHeadingContainer')]] was found
+2020-04-13 20:20:26 INFO  HotelDetailPage:113 - Room option label found with no issues.
+2020-04-13 20:20:27 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'ViewRoomOptionsButton')]] was found
+2020-04-13 20:20:27 INFO  HotelDetailPage:83 - View Room Options button is clicked.
+2020-04-13 20:20:29 INFO  BasePage:108 - [[[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'RoomFlavor__ButtonWrapper')]]] was found
+2020-04-13 20:20:29 INFO  HotelDetailPage:98 - First select room is clicked.
+2020-04-13 20:20:29 INFO  BasePage:36 - Given string title Book Cheap Flights, Air Tickets, Hotels, Bus & Holiday Package at Goibibo contains in expected title; which is Book Cheap Flights, Air Tickets, Hotels, Bus & Holiday Package at Goibibo.
+2020-04-13 20:20:31 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //p[contains(@class,'HotelDetailsWrap__ReviewHotelNamePara')]] was found
+2020-04-13 20:20:31 INFO  ReviewBookingPage:67 - Review hotel name found is Hotel Vizima Palace
+2020-04-13 20:20:31 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //p[contains(@class,'RoomType__RoomTypeTxtPara')]] was found
+2020-04-13 20:20:31 INFO  ReviewBookingPage:86 - Room type option has been captured with no issues.
+2020-04-13 20:20:32 INFO  BasePage:108 - [[[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //p[contains(@class,'CheckInWrapPara')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //p[contains(@class,'CheckInWrapPara')]], [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //p[contains(@class,'CheckInWrapPara')]]] was found
+2020-04-13 20:20:32 INFO  ReviewBookingPage:131 - Checkin information on review page has been verified.
+2020-04-13 20:20:32 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //input[@placeholder='Enter First Name']] was found
+2020-04-13 20:20:32 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //input[@placeholder='Enter Last Name']] was found
+2020-04-13 20:20:32 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //input[@placeholder='Enter Email Address']] was found
+2020-04-13 20:20:33 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //input[@placeholder='Enter Phone Number']] was found
+2020-04-13 20:20:33 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //select[@class='PersonalProfile__ExpectedCheckinDropdown-sc-1r9ak8b-16 cktZpD']] was found
+2020-04-13 20:20:33 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //div[contains(@class,'SpecialRequestBlock__CircularDiv')]] was found
+2020-04-13 20:20:33 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //input[@placeholder='Enter Special Request']] was found
+2020-04-13 20:20:34 INFO  ReviewBookingPage:165 - Guest Information has been set with no issues.
+2020-04-13 20:20:34 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //button[contains(@class,'GuestDetailBlock__CustomButton')]] was found
+2020-04-13 20:20:34 INFO  ReviewBookingPage:183 - Proceed to Payment Options button has been clicked.
+2020-04-13 20:20:34 INFO  BasePage:36 - Given string title Book Cheap Flights, Air Tickets, Hotels, Bus & Holiday Package at Goibibo contains in expected title; which is Book Cheap Flights, Air Tickets, Hotels, Bus & Holiday Package at Goibibo.
+2020-04-13 20:20:35 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //div[@class='paymentContent']//input[@placeholder='Card Number']] was found
+2020-04-13 20:20:36 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //div[@class='paymentContent']//input[@placeholder='Name']] was found
+2020-04-13 20:20:36 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //div[@class='paymentContent']//input[@class='form-control inputMedium cr_crd_exp']] was found
+2020-04-13 20:20:36 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //div[@class='paymentContent']//input[@class='gpayformFeildWrap inputMedium cr_cvv_no']] was found
+2020-04-13 20:20:36 INFO  PaymentPage:52 - Card information has been entered on the payment page.
+2020-04-13 20:20:36 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //div[@class='paymentContent']//button[@class='button green large citipatBtn btn payNowBtn']] was found
+2020-04-13 20:20:37 INFO  PaymentPage:69 - Pay button is clicked on payment page with no issues.
+2020-04-13 20:20:41 INFO  BasePage:36 - Given string title American Express SafeKey contains in expected title; which is American Express SafeKey.
+2020-04-13 20:20:50 INFO  BasePage:36 - Given string title SafeKey contains in expected title; which is SafeKey.
+2020-04-13 20:21:16 INFO  BasePage:36 - Given string title Thank you for choosing Goibibo. contains in expected title; which is Thank you for choosing Goibibo..
+2020-04-13 20:21:16 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a373951571a60d576a6fac173a602887)] -> xpath: //span[@class='red lh1-5 ico14 fl width100']] was found
+2020-04-13 20:21:16 INFO  ConfirmationPage:45 - Verify error message on conf page works fine.
+2020-04-13 20:21:30 INFO  BasePage:36 - Given string title Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off contains in expected title; which is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off.
+2020-04-13 20:21:30 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (3d6303fcd327f1b3a3ade84c86d105b2)] -> xpath: //ul[@class='mainLinks']//a[contains(@href,'hotels')]] was found
+2020-04-13 20:21:32 INFO  HomePage:39 - Hotel link from main menu is clicked with no issues.
+2020-04-13 20:21:32 INFO  BasePage:36 - Given string title Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo contains in expected title; which is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo.
+2020-04-13 20:21:32 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (3d6303fcd327f1b3a3ade84c86d105b2)] -> id: downshift-1-input] was found
+2020-04-13 20:21:33 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (3d6303fcd327f1b3a3ade84c86d105b2)] -> xpath: //input[contains(@class,'CitySearchInput')]] was found
+2020-04-13 20:21:34 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (3d6303fcd327f1b3a3ade84c86d105b2)] -> xpath: //span[text()='Rooms']//following-sibling::div/span[@class='PaxWidgetstyles__ContentActionValueWrapperSpan-gv3w6r-6 gpOosi']] was found
+2020-04-13 20:21:34 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (3d6303fcd327f1b3a3ade84c86d105b2)] -> xpath: //span[text()='Adults']//following-sibling::div/span[@class='PaxWidgetstyles__ContentActionValueWrapperSpan-gv3w6r-6 gpOosi']] was found
+2020-04-13 20:21:34 INFO  HotelsSearchPage:278 - Room and guest count have been set with no issues.
+2020-04-13 20:21:34 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (3d6303fcd327f1b3a3ade84c86d105b2)] -> xpath: //button[@class='SearchBlockUIstyles__SearchButtonAutoSuggest-fity7j-12 kGmYkx']] was found
+2020-04-13 20:21:34 INFO  HotelsSearchPage:83 - Search hotels button is clicked.
+2020-04-13 20:21:34 INFO  BasePage:36 - Given string title Results contains in expected title; which is Results.
+2020-04-13 20:21:35 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (3d6303fcd327f1b3a3ade84c86d105b2)] -> xpath: //span[contains(@class,'HotelNameText')]] was found
+2020-04-13 20:21:35 INFO  SearchResultsPage:62 - First Hotel name found in Resultset is Ginger Faridabad
+2020-04-13 20:21:35 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (3d6303fcd327f1b3a3ade84c86d105b2)] -> xpath: //div[@class='HotelCardImageGallerystyles__MainImageWrapperDivStyle-r3dzqu-1 hndaad']/img] was found
+2020-04-13 20:21:36 INFO  SearchResultsPage:126 - Clicked on the first hotels from the search criteria.
+2020-04-13 20:21:40 INFO  BasePage:55 - Given string title Ginger Faridabad Hotel Faridabad - Reviews, Photos & Offers contains in expected title; which is Ginger Faridabad.
+2020-04-13 20:21:40 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (3d6303fcd327f1b3a3ade84c86d105b2)] -> xpath: //span[contains(@class,'HotelNameText')]] was found
+2020-04-13 20:21:40 INFO  HotelDetailPage:66 - Hotel name found on Hotel detail page is Ginger Faridabad
+2020-04-13 20:21:40 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (3d6303fcd327f1b3a3ade84c86d105b2)] -> xpath: //button[contains(@class,'ViewRoomOptionsButton')]] was found
+2020-04-13 20:21:40 INFO  HotelDetailPage:83 - View Room Options button is clicked.
+2020-04-13 20:21:41 INFO  TakeScreenshot:25 - Screenshot is captured at .//Screenshots//
+2020-04-13 20:21:41 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (3d6303fcd327f1b3a3ade84c86d105b2)] -> xpath: //a[@href='#location']] was found
+2020-04-13 20:21:41 INFO  HotelDetailPage:132 - Location link is clicked.
+2020-04-13 20:21:43 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (3d6303fcd327f1b3a3ade84c86d105b2)] -> xpath: //a[@href='#location']] was found
+2020-04-13 20:21:43 INFO  HotelDetailPage:157 - Guest reviews link is clicked.
+2020-04-13 20:21:44 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (3d6303fcd327f1b3a3ade84c86d105b2)] -> xpath: //a[@href='#QnA']] was found
+2020-04-13 20:21:44 INFO  HotelDetailPage:182 - Questions and Answers link is clicked.
+2020-04-13 20:21:44 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (3d6303fcd327f1b3a3ade84c86d105b2)] -> xpath: //a[@href='#hotel-policies']] was found
+2020-04-13 20:21:44 INFO  HotelDetailPage:207 - Hotel policies link is clicked.
+2020-04-13 20:21:58 INFO  BasePage:36 - Given string title Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off contains in expected title; which is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off.
+2020-04-13 20:21:58 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //ul[@class='mainLinks']//a[contains(@href,'hotels')]] was found
+2020-04-13 20:22:01 INFO  HomePage:39 - Hotel link from main menu is clicked with no issues.
+2020-04-13 20:22:01 INFO  BasePage:36 - Given string title Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo contains in expected title; which is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo.
+2020-04-13 20:22:01 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> id: downshift-1-input] was found
+2020-04-13 20:22:02 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //div[text()='Check-in Date']//following::div[1]] was found
+2020-04-13 20:22:03 INFO  BasePage:141 - Mouse overed on[[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //div[text()='Check-in Date']//following::div[1]]
+2020-04-13 20:22:03 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //p[starts-with(@class, 'dcalendarstyles__MonthNamePara')]] was found
+2020-04-13 20:22:03 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //span[text()='18']] was found
+2020-04-13 20:22:03 INFO  HotelsSearchPage:225 - Given date 18 is selected.
+2020-04-13 20:22:03 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //span[text()='19']] was found
+2020-04-13 20:22:03 INFO  HotelsSearchPage:225 - Given date 19 is selected.
+2020-04-13 20:22:03 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //input[contains(@class,'CitySearchInput')]] was found
+2020-04-13 20:22:03 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //span[text()='Rooms']//following-sibling::div/span[@class='PaxWidgetstyles__ContentActionValueWrapperSpan-gv3w6r-6 gpOosi']] was found
+2020-04-13 20:22:04 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //span[text()='Adults']//following-sibling::div/span[@class='PaxWidgetstyles__ContentActionValueWrapperSpan-gv3w6r-6 gpOosi']] was found
+2020-04-13 20:22:04 INFO  HotelsSearchPage:278 - Room and guest count have been set with no issues.
+2020-04-13 20:22:04 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //button[@class='SearchBlockUIstyles__SearchButtonAutoSuggest-fity7j-12 kGmYkx']] was found
+2020-04-13 20:22:04 INFO  HotelsSearchPage:83 - Search hotels button is clicked.
+2020-04-13 20:22:04 INFO  BasePage:36 - Given string title Results contains in expected title; which is Results.
+2020-04-13 20:22:05 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //span[contains(@class,'HotelNameText')]] was found
+2020-04-13 20:22:05 INFO  SearchResultsPage:62 - First Hotel name found in Resultset is Mountain Trails
+2020-04-13 20:22:05 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //div[@class='CheckBoxList__TextCenteredDiv-sc-5k7440-5 hafBgd']/span[text()='Pay At Hotel']] was found
+2020-04-13 20:22:05 INFO  SearchResultsPage:145 - Clicked on Pay at Hotel checkbox under popular filters.
+2020-04-13 20:22:05 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //div[@class='CheckBoxList__CheckboxListWrapperDiv-sc-5k7440-0 iVbvPd'][2]//div[3]] was found
+2020-04-13 20:22:05 INFO  SearchResultsPage:162 - Clicked on Price range second checkbox under price range filters.
+2020-04-13 20:22:06 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //div[@class='CheckBoxList__CheckboxListWrapperDiv-sc-5k7440-0 iVbvPd'][3]/div[2]] was found
+2020-04-13 20:22:06 INFO  SearchResultsPage:179 - Clicked on rating 4 and above under Ratings section.
+2020-04-13 20:22:07 INFO  BasePage:108 - [[[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //span[contains(@class,'HotelCardstyles__CurrentPrice')]], [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //span[contains(@class,'HotelCardstyles__CurrentPrice')]], [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //span[contains(@class,'HotelCardstyles__CurrentPrice')]], [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //span[contains(@class,'HotelCardstyles__CurrentPrice')]], [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //span[contains(@class,'HotelCardstyles__CurrentPrice')]], [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //span[contains(@class,'HotelCardstyles__CurrentPrice')]]] was found
+2020-04-13 20:22:07 INFO  SearchResultsPage:202 - Price 2466 Showing up on hotel kumaran cottage is within the range 2001 - 4000
+2020-04-13 20:22:08 INFO  BasePage:108 - [[[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //span[contains(@class,'ReviewAndRatingsstyles__AverageReviewText')]], [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //span[contains(@class,'ReviewAndRatingsstyles__AverageReviewText')]], [[ChromeDriver: chrome on WINDOWS (85a197699927229b0037c9f599a341ec)] -> xpath: //span[contains(@class,'ReviewAndRatingsstyles__AverageReviewText')]]] was found
+2020-04-13 20:22:08 INFO  SearchResultsPage:226 - Rating 4.6 Showing up for hotel kumaran cottage is greater than 4

@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[*********Test Case 01 *************]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues
+expected title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues]]>
+    </line>
+    <line>
+      <![CDATA[Allow button from the pop-up alert window is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[SignIn link is clicked from the Home page.]]>
+    </line>
+    <line>
+      <![CDATA[UserName:= abcd]]>
+    </line>
+    <line>
+      <![CDATA[Password:= 123]]>
+    </line>
+    <line>
+      <![CDATA[abcd user information has been sent to textbox.]]>
+    </line>
+    <line>
+      <![CDATA[Password 123 sent to password text box.]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the login button from sign in page.]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Error message is correct.]]>
+    </line>
+    <line>
+      <![CDATA[Actual error message is Please enter valid email id or mobile number.]]>
+    </line>
+    <line>
+      <![CDATA[Expected error message is Please enter valid email id or mobile number.]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Error message is correct.]]>
+    </line>
+    <line>
+      <![CDATA[Actual error message is Password must be 6 characters or more.]]>
+    </line>
+    <line>
+      <![CDATA[Expected error message is Password must be 6 characters or more.]]>
+    </line>
+    <line>
+      <![CDATA[User information textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[Password textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[UserName:= abcde]]>
+    </line>
+    <line>
+      <![CDATA[Password:= test1234]]>
+    </line>
+    <line>
+      <![CDATA[abcde user information has been sent to textbox.]]>
+    </line>
+    <line>
+      <![CDATA[Password test1234 sent to password text box.]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the login button from sign in page.]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Error message is correct.]]>
+    </line>
+    <line>
+      <![CDATA[Actual error message is Please enter valid email id or mobile number.]]>
+    </line>
+    <line>
+      <![CDATA[Expected error message is Please enter valid email id or mobile number.]]>
+    </line>
+    <line>
+      <![CDATA[User information textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[Password textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[UserName:= test@gmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Password:= test1]]>
+    </line>
+    <line>
+      <![CDATA[test@gmail.com user information has been sent to textbox.]]>
+    </line>
+    <line>
+      <![CDATA[Password test1 sent to password text box.]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the login button from sign in page.]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Error message is correct.]]>
+    </line>
+    <line>
+      <![CDATA[Actual error message is Password must be 6 characters or more.]]>
+    </line>
+    <line>
+      <![CDATA[Expected error message is Password must be 6 characters or more.]]>
+    </line>
+    <line>
+      <![CDATA[User information textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[Password textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[UserName:= 9873541259]]>
+    </line>
+    <line>
+      <![CDATA[Password:= test]]>
+    </line>
+    <line>
+      <![CDATA[9873541259 user information has been sent to textbox.]]>
+    </line>
+    <line>
+      <![CDATA[Password test sent to password text box.]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the login button from sign in page.]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Error message is correct.]]>
+    </line>
+    <line>
+      <![CDATA[Actual error message is Password must be 6 characters or more.]]>
+    </line>
+    <line>
+      <![CDATA[Expected error message is Password must be 6 characters or more.]]>
+    </line>
+    <line>
+      <![CDATA[User information textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[Password textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[UserName:= 987354125]]>
+    </line>
+    <line>
+      <![CDATA[Password:= test123]]>
+    </line>
+    <line>
+      <![CDATA[987354125 user information has been sent to textbox.]]>
+    </line>
+    <line>
+      <![CDATA[Password test123 sent to password text box.]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the login button from sign in page.]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Error message is correct.]]>
+    </line>
+    <line>
+      <![CDATA[Actual error message is Please enter valid email id or mobile number.]]>
+    </line>
+    <line>
+      <![CDATA[Expected error message is Please enter valid email id or mobile number.]]>
+    </line>
+    <line>
+      <![CDATA[User information textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[Password textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[UserName:= apple.singh@hotmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Password:= Faridabad123]]>
+    </line>
+    <line>
+      <![CDATA[apple.singh@hotmail.com user information has been sent to textbox.]]>
+    </line>
+    <line>
+      <![CDATA[Password Faridabad123 sent to password text box.]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the login button from sign in page.]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Error message is correct.]]>
+    </line>
+    <line>
+      <![CDATA[Actual error message is Incorrect login details.]]>
+    </line>
+    <line>
+      <![CDATA[Expected error message is Incorrect login details.]]>
+    </line>
+    <line>
+      <![CDATA[User information textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[Password textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[*********Test Case search products using excel sheet *************]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues
+expected title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues]]>
+    </line>
+    <line>
+      <![CDATA[Allow button from the pop-up alert window is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[*************************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Search Product name is: Nike Shoes]]>
+    </line>
+    <line>
+      <![CDATA[Search button is clicked.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues
+expected title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues]]>
+    </line>
+    <line>
+      <![CDATA[Pass:: Number of products in the results are greater than 0 and it is- 19044]]>
+    </line>
+    <line>
+      <![CDATA[First product name from search is Nike Men NIKE AIR RELENTLESS 6 MSL Sport Shoes]]>
+    </line>
+    <line>
+      <![CDATA[Price of first product name from search is Rs.4500]]>
+    </line>
+    <line>
+      <![CDATA[*************************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Search Product name is: Fastrach watch]]>
+    </line>
+    <line>
+      <![CDATA[Search button is clicked.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues
+expected title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues]]>
+    </line>
+    <line>
+      <![CDATA[Pass:: Number of products in the results are greater than 0 and it is- 193903]]>
+    </line>
+    <line>
+      <![CDATA[First product name from search is AZU105AA1 Compatiable with all smart phone smart watch]]>
+    </line>
+    <line>
+      <![CDATA[Price of first product name from search is Rs.999]]>
+    </line>
+    <line>
+      <![CDATA[*************************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Search Product name is: Apple Phones]]>
+    </line>
+    <line>
+      <![CDATA[Search button is clicked.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues
+expected title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues]]>
+    </line>
+    <line>
+      <![CDATA[Pass:: Number of products in the results are greater than 0 and it is- 542179]]>
+    </line>
+    <line>
+      <![CDATA[First product name from search is Apple iPhone X (3 GB/64 GB/Silver)]]>
+    </line>
+    <line>
+      <![CDATA[Price of first product name from search is Rs.81000]]>
+    </line>
+    <line>
+      <![CDATA[*************************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[*****************Search using Robot Class*********************]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues
+expected title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues]]>
+    </line>
+    <line>
+      <![CDATA[Allow button from the pop-up alert window is not displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Setting up the search section works fine]]>
+    </line>
+    <line>
+      <![CDATA[Enter is pressed using Robot class.]]>
+    </line>
+    <line>
+      <![CDATA[Pass:: Number of products in the results are greater than 0 and it is- 18863]]>
+    </line>
+    <line>
+      <![CDATA[*************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[*********Test Case 01 *************]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues
+expected title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues]]>
+    </line>
+    <line>
+      <![CDATA[Allow button from the pop-up alert window is clicked from the Home page.]]>
+    </line>
+    <line>
+      <![CDATA[SignIn link is clicked from the Home page.]]>
+    </line>
+    <line>
+      <![CDATA[UserName:= abcd]]>
+    </line>
+    <line>
+      <![CDATA[Password:= 123]]>
+    </line>
+    <line>
+      <![CDATA[abcd user information has been sent to textbox.]]>
+    </line>
+    <line>
+      <![CDATA[Password 123 sent to password text box.]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the login button from sign in page.]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Error message is correct.]]>
+    </line>
+    <line>
+      <![CDATA[Actual error message is Please enter valid email id or mobile number.]]>
+    </line>
+    <line>
+      <![CDATA[Expected error message is Please enter valid email id or mobile number.]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Error message is correct.]]>
+    </line>
+    <line>
+      <![CDATA[Actual error message is Password must be 6 characters or more.]]>
+    </line>
+    <line>
+      <![CDATA[Expected error message is Password must be 6 characters or more.]]>
+    </line>
+    <line>
+      <![CDATA[User information textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[Password textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[UserName:= abcde]]>
+    </line>
+    <line>
+      <![CDATA[Password:= test1234]]>
+    </line>
+    <line>
+      <![CDATA[abcde user information has been sent to textbox.]]>
+    </line>
+    <line>
+      <![CDATA[Password test1234 sent to password text box.]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the login button from sign in page.]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Error message is correct.]]>
+    </line>
+    <line>
+      <![CDATA[Actual error message is Please enter valid email id or mobile number.]]>
+    </line>
+    <line>
+      <![CDATA[Expected error message is Please enter valid email id or mobile number.]]>
+    </line>
+    <line>
+      <![CDATA[User information textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[Password textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[UserName:= test@gmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Password:= test1]]>
+    </line>
+    <line>
+      <![CDATA[test@gmail.com user information has been sent to textbox.]]>
+    </line>
+    <line>
+      <![CDATA[Password test1 sent to password text box.]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the login button from sign in page.]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Error message is correct.]]>
+    </line>
+    <line>
+      <![CDATA[Actual error message is Password must be 6 characters or more.]]>
+    </line>
+    <line>
+      <![CDATA[Expected error message is Password must be 6 characters or more.]]>
+    </line>
+    <line>
+      <![CDATA[User information textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[Password textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[UserName:= 9873541259]]>
+    </line>
+    <line>
+      <![CDATA[Password:= test]]>
+    </line>
+    <line>
+      <![CDATA[9873541259 user information has been sent to textbox.]]>
+    </line>
+    <line>
+      <![CDATA[Password test sent to password text box.]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the login button from sign in page.]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Error message is correct.]]>
+    </line>
+    <line>
+      <![CDATA[Actual error message is Password must be 6 characters or more.]]>
+    </line>
+    <line>
+      <![CDATA[Expected error message is Password must be 6 characters or more.]]>
+    </line>
+    <line>
+      <![CDATA[User information textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[Password textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[UserName:= 987354125]]>
+    </line>
+    <line>
+      <![CDATA[Password:= test123]]>
+    </line>
+    <line>
+      <![CDATA[987354125 user information has been sent to textbox.]]>
+    </line>
+    <line>
+      <![CDATA[Password test123 sent to password text box.]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the login button from sign in page.]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Error message is correct.]]>
+    </line>
+    <line>
+      <![CDATA[Actual error message is Please enter valid email id or mobile number.]]>
+    </line>
+    <line>
+      <![CDATA[Expected error message is Please enter valid email id or mobile number.]]>
+    </line>
+    <line>
+      <![CDATA[User information textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[Password textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[UserName:= apple.singh@hotmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Password:= Faridabad123]]>
+    </line>
+    <line>
+      <![CDATA[apple.singh@hotmail.com user information has been sent to textbox.]]>
+    </line>
+    <line>
+      <![CDATA[Password Faridabad123 sent to password text box.]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the login button from sign in page.]]>
+    </line>
+    <line>
+      <![CDATA[Pass: Error message is correct.]]>
+    </line>
+    <line>
+      <![CDATA[Actual error message is Incorrect login details.]]>
+    </line>
+    <line>
+      <![CDATA[Expected error message is Incorrect login details.]]>
+    </line>
+    <line>
+      <![CDATA[User information textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[Password textbox has been cleared.]]>
+    </line>
+    <line>
+      <![CDATA[*********Test Case search products using excel sheet *************]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues
+expected title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues]]>
+    </line>
+    <line>
+      <![CDATA[Allow button from the pop-up alert window is clicked from the Home page.]]>
+    </line>
+    <line>
+      <![CDATA[*************************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Search Product name is: Nike Shoes]]>
+    </line>
+    <line>
+      <![CDATA[Search button is clicked.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues
+expected title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues]]>
+    </line>
+    <line>
+      <![CDATA[Pass:: Number of products in the results are greater than 0 and it is- 19044]]>
+    </line>
+    <line>
+      <![CDATA[First product name from search is Nike Men NIKE AIR RELENTLESS 6 MSL Sport Shoes]]>
+    </line>
+    <line>
+      <![CDATA[Price of first product name from search is Rs.4500]]>
+    </line>
+    <line>
+      <![CDATA[*************************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Search Product name is: Fastrach watch]]>
+    </line>
+    <line>
+      <![CDATA[Search button is clicked.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues
+expected title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues]]>
+    </line>
+    <line>
+      <![CDATA[Pass:: Number of products in the results are greater than 0 and it is- 193903]]>
+    </line>
+    <line>
+      <![CDATA[First product name from search is AZU105AA1 Compatiable with all smart phone smart watch]]>
+    </line>
+    <line>
+      <![CDATA[Price of first product name from search is Rs.999]]>
+    </line>
+    <line>
+      <![CDATA[*************************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Search Product name is: Apple Phones]]>
+    </line>
+    <line>
+      <![CDATA[Search button is clicked.]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues
+expected title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues]]>
+    </line>
+    <line>
+      <![CDATA[Pass:: Number of products in the results are greater than 0 and it is- 542179]]>
+    </line>
+    <line>
+      <![CDATA[First product name from search is Apple iPhone X (3 GB/64 GB/Silver)]]>
+    </line>
+    <line>
+      <![CDATA[Price of first product name from search is Rs.81000]]>
+    </line>
+    <line>
+      <![CDATA[*************************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[*****************Search using Robot Class*********************]]>
+    </line>
+    <line>
+      <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues
+expected title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues]]>
+    </line>
+    <line>
+      <![CDATA[Allow button from the pop-up alert window is clicked from the Home page.]]>
+    </line>
+    <line>
+      <![CDATA[Setting up the search section works fine]]>
+    </line>
+    <line>
+      <![CDATA[Enter is pressed using Robot class.]]>
+    </line>
+    <line>
+      <![CDATA[Pass:: Number of products in the results are greater than 0 and it is- 18863]]>
+    </line>
+    <line>
+      <![CDATA[*************************************************************]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-04-15T21:25:28 EDT" name="ShopCluesTests" finished-at="2020-04-15T21:30:30 EDT" duration-ms="302016">
+    <groups>
+    </groups>
+    <test started-at="2020-04-15T21:25:28 EDT" name="FunctionalityTest-Chrome" finished-at="2020-04-15T21:27:38 EDT" duration-ms="130657">
+      <class name="TestScripts.SearchProductsWithRobotClassTest">
+        <test-method is-config="true" signature="launchApp(java.lang.String)[pri:0, instance:TestScripts.SearchProductsWithRobotClassTest@343570b7]" started-at="2020-04-15T21:27:07 EDT" name="launchApp" finished-at="2020-04-15T21:27:23 EDT" duration-ms="16247" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="searchUsingRobotClass()[pri:0, instance:TestScripts.SearchProductsWithRobotClassTest@343570b7]" started-at="2020-04-15T21:27:23 EDT" name="searchUsingRobotClass" finished-at="2020-04-15T21:27:37 EDT" duration-ms="14388" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[*****************Search using Robot Class*********************]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues
+expected title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues]]>
+            </line>
+            <line>
+              <![CDATA[Allow button from the pop-up alert window is not displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Setting up the search section works fine]]>
+            </line>
+            <line>
+              <![CDATA[Enter is pressed using Robot class.]]>
+            </line>
+            <line>
+              <![CDATA[Pass:: Number of products in the results are greater than 0 and it is- 18863]]>
+            </line>
+            <line>
+              <![CDATA[*************************************************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchUsingRobotClass -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestScripts.SearchProductsWithRobotClassTest@343570b7]" started-at="2020-04-15T21:27:37 EDT" name="closeApp" finished-at="2020-04-15T21:27:38 EDT" duration-ms="1059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- TestScripts.SearchProductsWithRobotClassTest -->
+      <class name="TestScripts.LoginFunctionalityTest">
+        <test-method is-config="true" signature="launchApp(java.lang.String)[pri:0, instance:TestScripts.LoginFunctionalityTest@28975c28]" started-at="2020-04-15T21:25:28 EDT" name="launchApp" finished-at="2020-04-15T21:25:46 EDT" duration-ms="18367" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="testCase1()[pri:0, instance:TestScripts.LoginFunctionalityTest@28975c28]" started-at="2020-04-15T21:25:46 EDT" name="testCase1" finished-at="2020-04-15T21:26:25 EDT" duration-ms="38867" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[*********Test Case 01 *************]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues
+expected title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues]]>
+            </line>
+            <line>
+              <![CDATA[Allow button from the pop-up alert window is not displayed.]]>
+            </line>
+            <line>
+              <![CDATA[SignIn link is clicked from the Home page.]]>
+            </line>
+            <line>
+              <![CDATA[UserName:= abcd]]>
+            </line>
+            <line>
+              <![CDATA[Password:= 123]]>
+            </line>
+            <line>
+              <![CDATA[abcd user information has been sent to textbox.]]>
+            </line>
+            <line>
+              <![CDATA[Password 123 sent to password text box.]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the login button from sign in page.]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Error message is correct.]]>
+            </line>
+            <line>
+              <![CDATA[Actual error message is Please enter valid email id or mobile number.]]>
+            </line>
+            <line>
+              <![CDATA[Expected error message is Please enter valid email id or mobile number.]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Error message is correct.]]>
+            </line>
+            <line>
+              <![CDATA[Actual error message is Password must be 6 characters or more.]]>
+            </line>
+            <line>
+              <![CDATA[Expected error message is Password must be 6 characters or more.]]>
+            </line>
+            <line>
+              <![CDATA[User information textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[Password textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[UserName:= abcde]]>
+            </line>
+            <line>
+              <![CDATA[Password:= test1234]]>
+            </line>
+            <line>
+              <![CDATA[abcde user information has been sent to textbox.]]>
+            </line>
+            <line>
+              <![CDATA[Password test1234 sent to password text box.]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the login button from sign in page.]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Error message is correct.]]>
+            </line>
+            <line>
+              <![CDATA[Actual error message is Please enter valid email id or mobile number.]]>
+            </line>
+            <line>
+              <![CDATA[Expected error message is Please enter valid email id or mobile number.]]>
+            </line>
+            <line>
+              <![CDATA[User information textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[Password textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[UserName:= test@gmail.com]]>
+            </line>
+            <line>
+              <![CDATA[Password:= test1]]>
+            </line>
+            <line>
+              <![CDATA[test@gmail.com user information has been sent to textbox.]]>
+            </line>
+            <line>
+              <![CDATA[Password test1 sent to password text box.]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the login button from sign in page.]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Error message is correct.]]>
+            </line>
+            <line>
+              <![CDATA[Actual error message is Password must be 6 characters or more.]]>
+            </line>
+            <line>
+              <![CDATA[Expected error message is Password must be 6 characters or more.]]>
+            </line>
+            <line>
+              <![CDATA[User information textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[Password textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[UserName:= 9873541259]]>
+            </line>
+            <line>
+              <![CDATA[Password:= test]]>
+            </line>
+            <line>
+              <![CDATA[9873541259 user information has been sent to textbox.]]>
+            </line>
+            <line>
+              <![CDATA[Password test sent to password text box.]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the login button from sign in page.]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Error message is correct.]]>
+            </line>
+            <line>
+              <![CDATA[Actual error message is Password must be 6 characters or more.]]>
+            </line>
+            <line>
+              <![CDATA[Expected error message is Password must be 6 characters or more.]]>
+            </line>
+            <line>
+              <![CDATA[User information textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[Password textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[UserName:= 987354125]]>
+            </line>
+            <line>
+              <![CDATA[Password:= test123]]>
+            </line>
+            <line>
+              <![CDATA[987354125 user information has been sent to textbox.]]>
+            </line>
+            <line>
+              <![CDATA[Password test123 sent to password text box.]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the login button from sign in page.]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Error message is correct.]]>
+            </line>
+            <line>
+              <![CDATA[Actual error message is Please enter valid email id or mobile number.]]>
+            </line>
+            <line>
+              <![CDATA[Expected error message is Please enter valid email id or mobile number.]]>
+            </line>
+            <line>
+              <![CDATA[User information textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[Password textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[UserName:= apple.singh@hotmail.com]]>
+            </line>
+            <line>
+              <![CDATA[Password:= Faridabad123]]>
+            </line>
+            <line>
+              <![CDATA[apple.singh@hotmail.com user information has been sent to textbox.]]>
+            </line>
+            <line>
+              <![CDATA[Password Faridabad123 sent to password text box.]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the login button from sign in page.]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Error message is correct.]]>
+            </line>
+            <line>
+              <![CDATA[Actual error message is Incorrect login details.]]>
+            </line>
+            <line>
+              <![CDATA[Expected error message is Incorrect login details.]]>
+            </line>
+            <line>
+              <![CDATA[User information textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[Password textbox has been cleared.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestScripts.LoginFunctionalityTest@28975c28]" started-at="2020-04-15T21:26:25 EDT" name="closeApp" finished-at="2020-04-15T21:26:26 EDT" duration-ms="781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- TestScripts.LoginFunctionalityTest -->
+      <class name="TestScripts.SearchProductsTest">
+        <test-method is-config="true" signature="launchApp(java.lang.String)[pri:0, instance:TestScripts.SearchProductsTest@3943a2be]" started-at="2020-04-15T21:26:26 EDT" name="launchApp" finished-at="2020-04-15T21:26:41 EDT" duration-ms="15193" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="searchProducts()[pri:0, instance:TestScripts.SearchProductsTest@3943a2be]" started-at="2020-04-15T21:26:41 EDT" name="searchProducts" finished-at="2020-04-15T21:27:06 EDT" duration-ms="24901" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[*********Test Case search products using excel sheet *************]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues
+expected title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues]]>
+            </line>
+            <line>
+              <![CDATA[Allow button from the pop-up alert window is not displayed.]]>
+            </line>
+            <line>
+              <![CDATA[*************************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Search Product name is: Nike Shoes]]>
+            </line>
+            <line>
+              <![CDATA[Search button is clicked.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues
+expected title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues]]>
+            </line>
+            <line>
+              <![CDATA[Pass:: Number of products in the results are greater than 0 and it is- 19044]]>
+            </line>
+            <line>
+              <![CDATA[First product name from search is Nike Men NIKE AIR RELENTLESS 6 MSL Sport Shoes]]>
+            </line>
+            <line>
+              <![CDATA[Price of first product name from search is Rs.4500]]>
+            </line>
+            <line>
+              <![CDATA[*************************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Search Product name is: Fastrach watch]]>
+            </line>
+            <line>
+              <![CDATA[Search button is clicked.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues
+expected title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues]]>
+            </line>
+            <line>
+              <![CDATA[Pass:: Number of products in the results are greater than 0 and it is- 193903]]>
+            </line>
+            <line>
+              <![CDATA[First product name from search is AZU105AA1 Compatiable with all smart phone smart watch]]>
+            </line>
+            <line>
+              <![CDATA[Price of first product name from search is Rs.999]]>
+            </line>
+            <line>
+              <![CDATA[*************************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Search Product name is: Apple Phones]]>
+            </line>
+            <line>
+              <![CDATA[Search button is clicked.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues
+expected title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues]]>
+            </line>
+            <line>
+              <![CDATA[Pass:: Number of products in the results are greater than 0 and it is- 542179]]>
+            </line>
+            <line>
+              <![CDATA[First product name from search is Apple iPhone X (3 GB/64 GB/Silver)]]>
+            </line>
+            <line>
+              <![CDATA[Price of first product name from search is Rs.81000]]>
+            </line>
+            <line>
+              <![CDATA[*************************************************************************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchProducts -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestScripts.SearchProductsTest@3943a2be]" started-at="2020-04-15T21:27:06 EDT" name="closeApp" finished-at="2020-04-15T21:27:07 EDT" duration-ms="774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- TestScripts.SearchProductsTest -->
+    </test> <!-- FunctionalityTest-Chrome -->
+    <test started-at="2020-04-15T21:27:40 EDT" name="FunctionalityTest-FireFox" finished-at="2020-04-15T21:30:30 EDT" duration-ms="170063">
+      <class name="TestScripts.SearchProductsWithRobotClassTest">
+        <test-method is-config="true" signature="launchApp(java.lang.String)[pri:0, instance:TestScripts.SearchProductsWithRobotClassTest@52102734]" started-at="2020-04-15T21:29:41 EDT" name="launchApp" finished-at="2020-04-15T21:30:03 EDT" duration-ms="21497" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="searchUsingRobotClass()[pri:0, instance:TestScripts.SearchProductsWithRobotClassTest@52102734]" started-at="2020-04-15T21:30:03 EDT" name="searchUsingRobotClass" finished-at="2020-04-15T21:30:17 EDT" duration-ms="14713" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[*****************Search using Robot Class*********************]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues
+expected title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues]]>
+            </line>
+            <line>
+              <![CDATA[Allow button from the pop-up alert window is clicked from the Home page.]]>
+            </line>
+            <line>
+              <![CDATA[Setting up the search section works fine]]>
+            </line>
+            <line>
+              <![CDATA[Enter is pressed using Robot class.]]>
+            </line>
+            <line>
+              <![CDATA[Pass:: Number of products in the results are greater than 0 and it is- 18863]]>
+            </line>
+            <line>
+              <![CDATA[*************************************************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchUsingRobotClass -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestScripts.SearchProductsWithRobotClassTest@52102734]" started-at="2020-04-15T21:30:17 EDT" name="closeApp" finished-at="2020-04-15T21:30:30 EDT" duration-ms="12346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- TestScripts.SearchProductsWithRobotClassTest -->
+      <class name="TestScripts.LoginFunctionalityTest">
+        <test-method is-config="true" signature="launchApp(java.lang.String)[pri:0, instance:TestScripts.LoginFunctionalityTest@5939a379]" started-at="2020-04-15T21:27:40 EDT" name="launchApp" finished-at="2020-04-15T21:27:56 EDT" duration-ms="15979" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="testCase1()[pri:0, instance:TestScripts.LoginFunctionalityTest@5939a379]" started-at="2020-04-15T21:27:56 EDT" name="testCase1" finished-at="2020-04-15T21:28:34 EDT" duration-ms="38146" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[*********Test Case 01 *************]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues
+expected title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues]]>
+            </line>
+            <line>
+              <![CDATA[Allow button from the pop-up alert window is clicked from the Home page.]]>
+            </line>
+            <line>
+              <![CDATA[SignIn link is clicked from the Home page.]]>
+            </line>
+            <line>
+              <![CDATA[UserName:= abcd]]>
+            </line>
+            <line>
+              <![CDATA[Password:= 123]]>
+            </line>
+            <line>
+              <![CDATA[abcd user information has been sent to textbox.]]>
+            </line>
+            <line>
+              <![CDATA[Password 123 sent to password text box.]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the login button from sign in page.]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Error message is correct.]]>
+            </line>
+            <line>
+              <![CDATA[Actual error message is Please enter valid email id or mobile number.]]>
+            </line>
+            <line>
+              <![CDATA[Expected error message is Please enter valid email id or mobile number.]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Error message is correct.]]>
+            </line>
+            <line>
+              <![CDATA[Actual error message is Password must be 6 characters or more.]]>
+            </line>
+            <line>
+              <![CDATA[Expected error message is Password must be 6 characters or more.]]>
+            </line>
+            <line>
+              <![CDATA[User information textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[Password textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[UserName:= abcde]]>
+            </line>
+            <line>
+              <![CDATA[Password:= test1234]]>
+            </line>
+            <line>
+              <![CDATA[abcde user information has been sent to textbox.]]>
+            </line>
+            <line>
+              <![CDATA[Password test1234 sent to password text box.]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the login button from sign in page.]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Error message is correct.]]>
+            </line>
+            <line>
+              <![CDATA[Actual error message is Please enter valid email id or mobile number.]]>
+            </line>
+            <line>
+              <![CDATA[Expected error message is Please enter valid email id or mobile number.]]>
+            </line>
+            <line>
+              <![CDATA[User information textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[Password textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[UserName:= test@gmail.com]]>
+            </line>
+            <line>
+              <![CDATA[Password:= test1]]>
+            </line>
+            <line>
+              <![CDATA[test@gmail.com user information has been sent to textbox.]]>
+            </line>
+            <line>
+              <![CDATA[Password test1 sent to password text box.]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the login button from sign in page.]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Error message is correct.]]>
+            </line>
+            <line>
+              <![CDATA[Actual error message is Password must be 6 characters or more.]]>
+            </line>
+            <line>
+              <![CDATA[Expected error message is Password must be 6 characters or more.]]>
+            </line>
+            <line>
+              <![CDATA[User information textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[Password textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[UserName:= 9873541259]]>
+            </line>
+            <line>
+              <![CDATA[Password:= test]]>
+            </line>
+            <line>
+              <![CDATA[9873541259 user information has been sent to textbox.]]>
+            </line>
+            <line>
+              <![CDATA[Password test sent to password text box.]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the login button from sign in page.]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Error message is correct.]]>
+            </line>
+            <line>
+              <![CDATA[Actual error message is Password must be 6 characters or more.]]>
+            </line>
+            <line>
+              <![CDATA[Expected error message is Password must be 6 characters or more.]]>
+            </line>
+            <line>
+              <![CDATA[User information textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[Password textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[UserName:= 987354125]]>
+            </line>
+            <line>
+              <![CDATA[Password:= test123]]>
+            </line>
+            <line>
+              <![CDATA[987354125 user information has been sent to textbox.]]>
+            </line>
+            <line>
+              <![CDATA[Password test123 sent to password text box.]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the login button from sign in page.]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Error message is correct.]]>
+            </line>
+            <line>
+              <![CDATA[Actual error message is Please enter valid email id or mobile number.]]>
+            </line>
+            <line>
+              <![CDATA[Expected error message is Please enter valid email id or mobile number.]]>
+            </line>
+            <line>
+              <![CDATA[User information textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[Password textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[UserName:= apple.singh@hotmail.com]]>
+            </line>
+            <line>
+              <![CDATA[Password:= Faridabad123]]>
+            </line>
+            <line>
+              <![CDATA[apple.singh@hotmail.com user information has been sent to textbox.]]>
+            </line>
+            <line>
+              <![CDATA[Password Faridabad123 sent to password text box.]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the login button from sign in page.]]>
+            </line>
+            <line>
+              <![CDATA[Pass: Error message is correct.]]>
+            </line>
+            <line>
+              <![CDATA[Actual error message is Incorrect login details.]]>
+            </line>
+            <line>
+              <![CDATA[Expected error message is Incorrect login details.]]>
+            </line>
+            <line>
+              <![CDATA[User information textbox has been cleared.]]>
+            </line>
+            <line>
+              <![CDATA[Password textbox has been cleared.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestScripts.LoginFunctionalityTest@5939a379]" started-at="2020-04-15T21:28:34 EDT" name="closeApp" finished-at="2020-04-15T21:28:43 EDT" duration-ms="9499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- TestScripts.LoginFunctionalityTest -->
+      <class name="TestScripts.SearchProductsTest">
+        <test-method is-config="true" signature="launchApp(java.lang.String)[pri:0, instance:TestScripts.SearchProductsTest@e1de817]" started-at="2020-04-15T21:28:43 EDT" name="launchApp" finished-at="2020-04-15T21:29:05 EDT" duration-ms="21400" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="searchProducts()[pri:0, instance:TestScripts.SearchProductsTest@e1de817]" started-at="2020-04-15T21:29:05 EDT" name="searchProducts" finished-at="2020-04-15T21:29:31 EDT" duration-ms="26759" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[*********Test Case search products using excel sheet *************]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues
+expected title is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues]]>
+            </line>
+            <line>
+              <![CDATA[Allow button from the pop-up alert window is clicked from the Home page.]]>
+            </line>
+            <line>
+              <![CDATA[*************************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Search Product name is: Nike Shoes]]>
+            </line>
+            <line>
+              <![CDATA[Search button is clicked.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues
+expected title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues]]>
+            </line>
+            <line>
+              <![CDATA[Pass:: Number of products in the results are greater than 0 and it is- 19044]]>
+            </line>
+            <line>
+              <![CDATA[First product name from search is Nike Men NIKE AIR RELENTLESS 6 MSL Sport Shoes]]>
+            </line>
+            <line>
+              <![CDATA[Price of first product name from search is Rs.4500]]>
+            </line>
+            <line>
+              <![CDATA[*************************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Search Product name is: Fastrach watch]]>
+            </line>
+            <line>
+              <![CDATA[Search button is clicked.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues
+expected title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues]]>
+            </line>
+            <line>
+              <![CDATA[Pass:: Number of products in the results are greater than 0 and it is- 193903]]>
+            </line>
+            <line>
+              <![CDATA[First product name from search is AZU105AA1 Compatiable with all smart phone smart watch]]>
+            </line>
+            <line>
+              <![CDATA[Price of first product name from search is Rs.999]]>
+            </line>
+            <line>
+              <![CDATA[*************************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Search Product name is: Apple Phones]]>
+            </line>
+            <line>
+              <![CDATA[Search button is clicked.]]>
+            </line>
+            <line>
+              <![CDATA[Expected title matches with actual title. 
+Actual Title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues
+expected title is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues]]>
+            </line>
+            <line>
+              <![CDATA[Pass:: Number of products in the results are greater than 0 and it is- 542179]]>
+            </line>
+            <line>
+              <![CDATA[First product name from search is Apple iPhone X (3 GB/64 GB/Silver)]]>
+            </line>
+            <line>
+              <![CDATA[Price of first product name from search is Rs.81000]]>
+            </line>
+            <line>
+              <![CDATA[*************************************************************************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchProducts -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestScripts.SearchProductsTest@e1de817]" started-at="2020-04-15T21:29:31 EDT" name="closeApp" finished-at="2020-04-15T21:29:41 EDT" duration-ms="9723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- TestScripts.SearchProductsTest -->
+    </test> <!-- FunctionalityTest-FireFox -->
+  </suite> <!-- ShopCluesTests -->
+</testng-results>

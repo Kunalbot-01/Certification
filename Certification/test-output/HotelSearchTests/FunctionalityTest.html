@@ -1,0 +1,315 @@
+<html>
+<head>
+<title>TestNG:  FunctionalityTest</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>FunctionalityTest</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>4/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Apr 13 20:19:39 EDT 2020</td>
+</tr>
+<tr><td>Total time:</td><td>149 seconds (149386 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='TestScripts.HotelSearchTest.testCase1()'><b>testCase1</b><br>Test class: TestScripts.HotelSearchTest<br/>
+<a href="#Output-1288135425" onClick='toggleBox("Output-1288135425", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1288135425" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1288135425">
+*********Test Case 01 *************<br/>
+Step 1 - Verify title of the homepage.<br/>
+Expected title matches with actual title. 
+Actual Title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+expected title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off<br/>
+Step 2 - Click on the Hotels link from the top.<br/>
+Hotel link is clicked from the Home page.<br/>
+Step 3 - Verify the title of the Hotel homepage.<br/>
+Expected title matches with actual title. 
+Actual Title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo
+expected title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo<br/>
+Step 4 - Set the search criteria to search hotels and click Search Hotels button.<br/>
+Setting up search criteria on Hotel Search page.<br/>
+Ooty
+City
+569 Hotels is displayed.<br/>
+Location Ooty sent to text box and first option offerred is selected<br/>
+Check In day is 18 month is April Check Out day is 19<br/>
+Verifying guest count. Expected guest count is 1 actual is 1<br/>
+Verifying room count. Expected room count is 1 actual is 1<br/>
+Clicking on the search hotels from Hotle Search page.<br/>
+Step 5 - Verify the title of the Results page.<br/>
+Expected title matches with actual title. 
+Actual Title is Results
+expected title is Results<br/>
+Step 6 - Get the first hotel name and count number of hotels.<br/>
+First Hotel name found in Results is Mountain Trails<br/>
+Hotel name is Mountain Trails<br/>
+Hotel count is 569<br/>
+</div>
+</td>
+<td></td>
+<td>8</td>
+<td>TestScripts.HotelSearchTest@37f1104d</td></tr>
+<tr>
+<td title='TestScripts.HotelSearchTest.testCase2()'><b>testCase2</b><br>Test class: TestScripts.HotelSearchTest<br/>
+<a href="#Output-1407986024" onClick='toggleBox("Output-1407986024", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1407986024" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1407986024">
+***********************************Test Case 02********************************<br/>
+Step 1 - Verify title of the homepage.<br/>
+Expected title matches with actual title. 
+Actual Title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+expected title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off<br/>
+Step 2 - Click on the Hotels link from the top.<br/>
+Hotel link is clicked from the Home page.<br/>
+Step 3 - Verify the title of the Hotel homepage.<br/>
+Expected title matches with actual title. 
+Actual Title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo
+expected title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo<br/>
+Step 4 - Set the search criteria to search hotels and click Search Hotels button.<br/>
+Setting up search criteria on Hotel Search page.<br/>
+Noida
+City
+430 Hotels is displayed.<br/>
+Location Noida sent to text box and first option offerred is selected<br/>
+Check In day is 22 month is April Check Out day is 25<br/>
+Verifying guest count. Expected guest count is 1 actual is 1<br/>
+Verifying room count. Expected room count is 1 actual is 1<br/>
+Clicking on the search hotels from Hotle Search page.<br/>
+Step 5 - Verify the title of the Results page.<br/>
+Expected title matches with actual title. 
+Actual Title is Results
+expected title is Results<br/>
+Step 6 - Get the first hotel name and count number of hotels.<br/>
+First Hotel name found in Results is Hotel Vizima Palace<br/>
+Hotel name is Hotel Vizima Palace<br/>
+Step 7 - Click on the hotel appeared first in the result set.<br/>
+Parent Window handle is CDwindow-50E9ED61670B1D4CEB98667AD8B7504E<br/>
+Child window handle is CDwindow-40572864A213A40F8AF96D35278793B8<br/>
+First hotel from the search result has been clicked.<br/>
+Step 8 - Verify the title of the hotel detail page.<br/>
+Expected title matches with actual title. 
+Actual Title is Hotel Vizima Palace Noida - Reviews, Photos & Offers
+expected title is Hotel Vizima Palace<br/>
+Step 9 - Verify the name of the hotel is same as it was on the previous page.<br/>
+Hotel name from previous page: Hotel Vizima Palace and from detail page: Hotel Vizima Palace matches.<br/>
+Step 10 - Click on room options and select the first room option.<br/>
+Step 11 - Verify the title of the review booking page.<br/>
+Expected title matches with actual title. 
+Actual Title is Book Cheap Flights, Air Tickets, Hotels, Bus & Holiday Package at Goibibo
+expected title is Book Cheap Flights, Air Tickets, Hotels, Bus & Holiday Package at Goibibo<br/>
+Step 12 - Verify the name of the hotel is same as it was on the previous page.<br/>
+Hotel name from review page is Hotel Vizima Palace<br/>
+Hotel name from previous page: Hotel Vizima Palace and from review page: Hotel Vizima Palace matches.<br/>
+Step 13 - Verify the room type option and check-in details are same as it was on the previous page.<br/>
+On Review page; Room type is Classic Room<br/>
+Room Type from previous page: Classic Room and from review page: Classic Room matches.<br/>
+Step 14 - Enter the guest details and click on payment options button.<br/>
+Review page: guest details entered is: First Name = TestFirst Last Name = TestLast Email = test@gmail.com Mobile No.= 9087654387 Expected check-in time =  Special Request Text = Veg please<br/>
+Payment Options button has been clicked having text: Proceed To Payment Options<br/>
+Step 15 - Verify the title of Payment Page.<br/>
+Expected title matches with actual title. 
+Actual Title is Book Cheap Flights, Air Tickets, Hotels, Bus & Holiday Package at Goibibo
+expected title is Book Cheap Flights, Air Tickets, Hotels, Bus & Holiday Package at Goibibo<br/>
+Step 16 - Set the card details and click on pay button.<br/>
+Payment Page-Card details entered; Card number:= 371449635398431 Name on Card:= John Smith
+Expiry month and year:= 10/22 CVV number= 3569<br/>
+Pay button is clicked and button's text is Pay ?6,920<br/>
+Step 17 - Verify the title of confirm Pages.<br/>
+Expected title matches with actual title. 
+Actual Title is American Express SafeKey
+expected title is American Express SafeKey<br/>
+Expected title matches with actual title. 
+Actual Title is SafeKey
+expected title is SafeKey<br/>
+Expected title matches with actual title. 
+Actual Title is Thank you for choosing Goibibo.
+expected title is Thank you for choosing Goibibo.<br/>
+Step 18 - Verify the error message.<br/>
+Error message showing up on confirmation page is We are sorry but the transaction failed.<br/>
+</div>
+</td>
+<td></td>
+<td>61</td>
+<td>TestScripts.HotelSearchTest@37f1104d</td></tr>
+<tr>
+<td title='TestScripts.HotelSearchTest.testCase3()'><b>testCase3</b><br>Test class: TestScripts.HotelSearchTest<br/>
+<a href="#Output-1178160997" onClick='toggleBox("Output-1178160997", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1178160997" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1178160997">
+***********************************Test Case 03********************************<br/>
+Step 1 - Verify title of the homepage.<br/>
+Expected title matches with actual title. 
+Actual Title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+expected title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off<br/>
+Step 2 - Click on the Hotels link from the top.<br/>
+Hotel link is clicked from the Home page.<br/>
+Step 3 - Verify the title of the Hotel homepage.<br/>
+Expected title matches with actual title. 
+Actual Title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo
+expected title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo<br/>
+Step 4 - Set the search criteria to search hotels and click Search Hotels button.<br/>
+Setting up search criteria on Hotel Search page.<br/>
+Faridabad
+City
+177 Hotels is displayed.<br/>
+Location Faridabad sent to text box and first option offerred is selected<br/>
+Verifying guest count. Expected guest count is 3 actual is 3<br/>
+Verifying room count. Expected room count is 1 actual is 1<br/>
+Clicking on the search hotels from Hotle Search page.<br/>
+Step 5 - Verify the title of the Results page.<br/>
+Expected title matches with actual title. 
+Actual Title is Results
+expected title is Results<br/>
+Step 6 - Get the first hotel name and count number of hotels.<br/>
+First Hotel name found in Results is Ginger Faridabad<br/>
+Hotel name is Ginger Faridabad<br/>
+Step 7 - Click on the hotel appeared first in the result set.<br/>
+Parent Window handle is CDwindow-D9A150DD040F48F9F676FA93F3AE57F8<br/>
+Child window handle is CDwindow-9CE1E42D9ECA7494DFCAEBB330C36252<br/>
+First hotel from the search result has been clicked.<br/>
+Step 8 - Verify the title of the hotel detail page.<br/>
+Expected title matches with actual title. 
+Actual Title is Ginger Faridabad Hotel Faridabad - Reviews, Photos & Offers
+expected title is Ginger Faridabad<br/>
+Step 9 - Verify the name of the hotel is same as it was on the previous page.<br/>
+Hotel name from previous page: Ginger Faridabad and from detail page: Ginger Faridabad matches.<br/>
+Step 10 - Click on room options button.<br/>
+Step 11 - Take the screenshot.<br/>
+***Placed screen shot in .//Screenshots// ***<br/>
+Step 12 - Click on location link and verify section appears.<br/>
+Location link is clicked.<br/>
+Location image is present.<br/>
+Step 13 - Click on Guest Reviews link and verify section appears.<br/>
+Guest reviews link is clicked.<br/>
+Guest review section is present.<br/>
+Step 14 - Click on Questions and Answers link and verify section appears.<br/>
+Questions and Answers link is clicked.<br/>
+Questions and Answers section is present.<br/>
+Step 15 - Click on Hotel Policies link and verify section appears.<br/>
+Hotel policies link is clicked.<br/>
+Hotel policies section is present.<br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>TestScripts.HotelSearchTest@37f1104d</td></tr>
+<tr>
+<td title='TestScripts.HotelSearchTest.testCase4()'><b>testCase4</b><br>Test class: TestScripts.HotelSearchTest<br/>
+<a href="#Output-684426930" onClick='toggleBox("Output-684426930", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-684426930" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-684426930">
+***********************************Test Case 04********************************<br/>
+*********Test Case 01 *************<br/>
+Step 1 - Verify title of the homepage.<br/>
+Expected title matches with actual title. 
+Actual Title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+expected title is Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off<br/>
+Step 2 - Click on the Hotels link from the top.<br/>
+Hotel link is clicked from the Home page.<br/>
+Step 3 - Verify the title of the Hotel homepage.<br/>
+Expected title matches with actual title. 
+Actual Title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo
+expected title is Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo<br/>
+Step 4 - Set the search criteria to search hotels and click Search Hotels button.<br/>
+Setting up search criteria on Hotel Search page.<br/>
+Ooty
+City
+569 Hotels is displayed.<br/>
+Location Ooty sent to text box and first option offerred is selected<br/>
+Check In day is 18 month is April Check Out day is 19<br/>
+Verifying guest count. Expected guest count is 1 actual is 1<br/>
+Verifying room count. Expected room count is 1 actual is 1<br/>
+Clicking on the search hotels from Hotle Search page.<br/>
+Step 5 - Verify the title of the Results page.<br/>
+Expected title matches with actual title. 
+Actual Title is Results
+expected title is Results<br/>
+Step 6 - Get the first hotel name and count number of hotels.<br/>
+First Hotel name found in Results is Mountain Trails<br/>
+Hotel name is Mountain Trails<br/>
+Hotel count is 569<br/>
+Step 7 - Apply 'Pay At Hotel' filter<br/>
+Clicked on Pay at Hotel checkbox under popular filters.<br/>
+Step 8 - Apply 'Price range-2nd option' filter<br/>
+Clicked on Price range second checkbox under price range filters.<br/>
+Step 9 - Apply 'Rating=4' filter<br/>
+Clicked on rating 4 and above under Ratings section.<br/>
+Step 10 - verify rating and price for the hotel on the search result page.<br/>
+Price 2466 Showing up on hotel kumaran cottage is within the range 2001 - 4000<br/>
+Rating 4.6 Showing up for hotel kumaran cottage is greater than 4<br/>
+</div>
+</td>
+<td></td>
+<td>10</td>
+<td>TestScripts.HotelSearchTest@37f1104d</td></tr>
+</table><p>
+</body>
+</html>

@@ -1,0 +1,225 @@
+2020-04-15 21:25:48 INFO  BasePage:36 - Given string title Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues contains in expected title; which is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues.
+2020-04-15 21:25:58 INFO  HomePage:55 - Allow button from the pop-up alert window is not displayed.
+2020-04-15 21:25:58 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> xpath: //li[@id='sign-in']/a] was found
+2020-04-15 21:25:58 INFO  HomePage:73 - SignIn link is clicked with no issues.
+2020-04-15 21:26:03 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> id: main_user_login] was found
+2020-04-15 21:26:04 INFO  SignInPage:66 - abcd user information has been sent to textbox.
+2020-04-15 21:26:04 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:26:04 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> xpath: //a[@id='login_button']] was found
+2020-04-15 21:26:04 INFO  SignInPage:49 - Sign In button is clicked.
+2020-04-15 21:26:04 INFO  SignInPage:170 - Comparing error message with actual and expected worked fine.
+2020-04-15 21:26:07 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> id: main_user_login] was found
+2020-04-15 21:26:07 INFO  SignInPage:187 - User information textbox has been cleared.
+2020-04-15 21:26:07 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:26:07 INFO  SignInPage:206 - Password textbox has been cleared.
+2020-04-15 21:26:07 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> id: main_user_login] was found
+2020-04-15 21:26:07 INFO  SignInPage:66 - abcde user information has been sent to textbox.
+2020-04-15 21:26:07 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:26:07 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> xpath: //a[@id='login_button']] was found
+2020-04-15 21:26:08 INFO  SignInPage:49 - Sign In button is clicked.
+2020-04-15 21:26:10 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> id: main_user_login] was found
+2020-04-15 21:26:10 INFO  SignInPage:187 - User information textbox has been cleared.
+2020-04-15 21:26:10 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:26:10 INFO  SignInPage:206 - Password textbox has been cleared.
+2020-04-15 21:26:10 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> id: main_user_login] was found
+2020-04-15 21:26:11 INFO  SignInPage:66 - test@gmail.com user information has been sent to textbox.
+2020-04-15 21:26:11 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:26:11 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> xpath: //a[@id='login_button']] was found
+2020-04-15 21:26:11 INFO  SignInPage:49 - Sign In button is clicked.
+2020-04-15 21:26:11 INFO  SignInPage:170 - Comparing error message with actual and expected worked fine.
+2020-04-15 21:26:13 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> id: main_user_login] was found
+2020-04-15 21:26:14 INFO  SignInPage:187 - User information textbox has been cleared.
+2020-04-15 21:26:14 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:26:14 INFO  SignInPage:206 - Password textbox has been cleared.
+2020-04-15 21:26:14 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> id: main_user_login] was found
+2020-04-15 21:26:14 INFO  SignInPage:66 - 9873541259 user information has been sent to textbox.
+2020-04-15 21:26:14 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:26:14 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> xpath: //a[@id='login_button']] was found
+2020-04-15 21:26:15 INFO  SignInPage:49 - Sign In button is clicked.
+2020-04-15 21:26:15 INFO  SignInPage:170 - Comparing error message with actual and expected worked fine.
+2020-04-15 21:26:17 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> id: main_user_login] was found
+2020-04-15 21:26:17 INFO  SignInPage:187 - User information textbox has been cleared.
+2020-04-15 21:26:17 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:26:17 INFO  SignInPage:206 - Password textbox has been cleared.
+2020-04-15 21:26:17 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> id: main_user_login] was found
+2020-04-15 21:26:17 INFO  SignInPage:66 - 987354125 user information has been sent to textbox.
+2020-04-15 21:26:18 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:26:18 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> xpath: //a[@id='login_button']] was found
+2020-04-15 21:26:18 INFO  SignInPage:49 - Sign In button is clicked.
+2020-04-15 21:26:20 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> id: main_user_login] was found
+2020-04-15 21:26:20 INFO  SignInPage:187 - User information textbox has been cleared.
+2020-04-15 21:26:21 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:26:21 INFO  SignInPage:206 - Password textbox has been cleared.
+2020-04-15 21:26:21 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> id: main_user_login] was found
+2020-04-15 21:26:21 INFO  SignInPage:66 - apple.singh@hotmail.com user information has been sent to textbox.
+2020-04-15 21:26:21 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:26:21 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> xpath: //a[@id='login_button']] was found
+2020-04-15 21:26:22 INFO  SignInPage:49 - Sign In button is clicked.
+2020-04-15 21:26:22 INFO  SignInPage:170 - Comparing error message with actual and expected worked fine.
+2020-04-15 21:26:25 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> id: main_user_login] was found
+2020-04-15 21:26:25 INFO  SignInPage:187 - User information textbox has been cleared.
+2020-04-15 21:26:25 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (a44b769bcd738003d0e0c49df952b0fd)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:26:25 INFO  SignInPage:206 - Password textbox has been cleared.
+2020-04-15 21:26:41 INFO  BasePage:36 - Given string title Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues contains in expected title; which is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues.
+2020-04-15 21:26:51 INFO  HomePage:55 - Allow button from the pop-up alert window is not displayed.
+2020-04-15 21:26:51 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (72a6af044b2d3fbc3a355e06ff360c82)] -> id: autocomplete] was found
+2020-04-15 21:26:51 INFO  SearchProductPage:53 - Setting up search works fine.
+2020-04-15 21:26:52 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (72a6af044b2d3fbc3a355e06ff360c82)] -> xpath: //a[@class='srch_action btn orange']] was found
+2020-04-15 21:26:56 INFO  SearchProductPage:65 - Clicking the search works fine.
+2020-04-15 21:26:56 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (72a6af044b2d3fbc3a355e06ff360c82)] -> id: autocomplete] was found
+2020-04-15 21:26:56 INFO  SearchProductPage:78 - Clearing up the textbox works fine.
+2020-04-15 21:26:56 INFO  BasePage:36 - Given string title Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues contains in expected title; which is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues.
+2020-04-15 21:26:56 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (72a6af044b2d3fbc3a355e06ff360c82)] -> xpath: //div[@class='countNo']/p] was found
+2020-04-15 21:26:56 INFO  SearchProductResultsPage:42 - Number of products are 19044
+2020-04-15 21:26:57 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (72a6af044b2d3fbc3a355e06ff360c82)] -> xpath: //div[@class='column col3 search_blocks']//h2] was found
+2020-04-15 21:26:57 INFO  SearchProductResultsPage:68 - First product name is Nike Men NIKE AIR RELENTLESS 6 MSL Sport Shoes
+2020-04-15 21:26:57 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (72a6af044b2d3fbc3a355e06ff360c82)] -> xpath: //div[@class='column col3 search_blocks']//span[@class='p_price']] was found
+2020-04-15 21:26:57 INFO  SearchProductResultsPage:85 - Price of first product name from search is Rs.4500
+2020-04-15 21:26:57 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (72a6af044b2d3fbc3a355e06ff360c82)] -> id: autocomplete] was found
+2020-04-15 21:26:57 INFO  SearchProductPage:53 - Setting up search works fine.
+2020-04-15 21:26:57 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (72a6af044b2d3fbc3a355e06ff360c82)] -> xpath: //a[@class='srch_action btn orange']] was found
+2020-04-15 21:27:00 INFO  SearchProductPage:65 - Clicking the search works fine.
+2020-04-15 21:27:00 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (72a6af044b2d3fbc3a355e06ff360c82)] -> id: autocomplete] was found
+2020-04-15 21:27:00 INFO  SearchProductPage:78 - Clearing up the textbox works fine.
+2020-04-15 21:27:00 INFO  BasePage:36 - Given string title Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues contains in expected title; which is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues.
+2020-04-15 21:27:00 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (72a6af044b2d3fbc3a355e06ff360c82)] -> xpath: //div[@class='countNo']/p] was found
+2020-04-15 21:27:00 INFO  SearchProductResultsPage:42 - Number of products are 193903
+2020-04-15 21:27:00 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (72a6af044b2d3fbc3a355e06ff360c82)] -> xpath: //div[@class='column col3 search_blocks']//h2] was found
+2020-04-15 21:27:00 INFO  SearchProductResultsPage:68 - First product name is AZU105AA1 Compatiable with all smart phone smart watch
+2020-04-15 21:27:01 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (72a6af044b2d3fbc3a355e06ff360c82)] -> xpath: //div[@class='column col3 search_blocks']//span[@class='p_price']] was found
+2020-04-15 21:27:01 INFO  SearchProductResultsPage:85 - Price of first product name from search is Rs.999
+2020-04-15 21:27:01 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (72a6af044b2d3fbc3a355e06ff360c82)] -> id: autocomplete] was found
+2020-04-15 21:27:01 INFO  SearchProductPage:53 - Setting up search works fine.
+2020-04-15 21:27:01 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (72a6af044b2d3fbc3a355e06ff360c82)] -> xpath: //a[@class='srch_action btn orange']] was found
+2020-04-15 21:27:05 INFO  SearchProductPage:65 - Clicking the search works fine.
+2020-04-15 21:27:05 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (72a6af044b2d3fbc3a355e06ff360c82)] -> id: autocomplete] was found
+2020-04-15 21:27:05 INFO  SearchProductPage:78 - Clearing up the textbox works fine.
+2020-04-15 21:27:05 INFO  BasePage:36 - Given string title Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues contains in expected title; which is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues.
+2020-04-15 21:27:05 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (72a6af044b2d3fbc3a355e06ff360c82)] -> xpath: //div[@class='countNo']/p] was found
+2020-04-15 21:27:06 INFO  SearchProductResultsPage:42 - Number of products are 542179
+2020-04-15 21:27:06 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (72a6af044b2d3fbc3a355e06ff360c82)] -> xpath: //div[@class='column col3 search_blocks']//h2] was found
+2020-04-15 21:27:06 INFO  SearchProductResultsPage:68 - First product name is Apple iPhone X (3 GB/64 GB/Silver)
+2020-04-15 21:27:06 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (72a6af044b2d3fbc3a355e06ff360c82)] -> xpath: //div[@class='column col3 search_blocks']//span[@class='p_price']] was found
+2020-04-15 21:27:06 INFO  SearchProductResultsPage:85 - Price of first product name from search is Rs.81000
+2020-04-15 21:27:23 INFO  BasePage:36 - Given string title Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues contains in expected title; which is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues.
+2020-04-15 21:27:33 INFO  HomePage:55 - Allow button from the pop-up alert window is not displayed.
+2020-04-15 21:27:33 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (0e1dbf572dbcc0eb76bbafccb4205664)] -> id: autocomplete] was found
+2020-04-15 21:27:34 INFO  BasePage:141 - Mouse overed on[[ChromeDriver: chrome on WINDOWS (0e1dbf572dbcc0eb76bbafccb4205664)] -> id: autocomplete]
+2020-04-15 21:27:34 INFO  SearchProductPage:101 - Setting up search works fine.
+2020-04-15 21:27:34 INFO  SearchProductPage:114 - Pressing Enter works fine.
+2020-04-15 21:27:37 INFO  BasePage:71 - [[ChromeDriver: chrome on WINDOWS (0e1dbf572dbcc0eb76bbafccb4205664)] -> xpath: //div[@class='countNo']/p] was found
+2020-04-15 21:27:37 INFO  SearchProductResultsPage:42 - Number of products are 18863
+2020-04-15 21:27:56 INFO  BasePage:36 - Given string title Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues contains in expected title; which is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues.
+2020-04-15 21:28:06 INFO  BasePage:141 - Mouse overed on[[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //button[contains(@class,'moe-btn-allow moe-allow-class')]]
+2020-04-15 21:28:06 INFO  HomePage:50 - Allow button from the pop-up alert window is clicked with no issues.
+2020-04-15 21:28:06 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //li[@id='sign-in']/a] was found
+2020-04-15 21:28:07 INFO  HomePage:73 - SignIn link is clicked with no issues.
+2020-04-15 21:28:12 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> id: main_user_login] was found
+2020-04-15 21:28:12 INFO  SignInPage:66 - abcd user information has been sent to textbox.
+2020-04-15 21:28:12 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:28:13 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //a[@id='login_button']] was found
+2020-04-15 21:28:14 INFO  SignInPage:49 - Sign In button is clicked.
+2020-04-15 21:28:14 INFO  SignInPage:170 - Comparing error message with actual and expected worked fine.
+2020-04-15 21:28:16 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> id: main_user_login] was found
+2020-04-15 21:28:16 INFO  SignInPage:187 - User information textbox has been cleared.
+2020-04-15 21:28:16 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:28:16 INFO  SignInPage:206 - Password textbox has been cleared.
+2020-04-15 21:28:16 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> id: main_user_login] was found
+2020-04-15 21:28:16 INFO  SignInPage:66 - abcde user information has been sent to textbox.
+2020-04-15 21:28:16 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:28:17 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //a[@id='login_button']] was found
+2020-04-15 21:28:17 INFO  SignInPage:49 - Sign In button is clicked.
+2020-04-15 21:28:19 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> id: main_user_login] was found
+2020-04-15 21:28:19 INFO  SignInPage:187 - User information textbox has been cleared.
+2020-04-15 21:28:19 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:28:19 INFO  SignInPage:206 - Password textbox has been cleared.
+2020-04-15 21:28:19 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> id: main_user_login] was found
+2020-04-15 21:28:20 INFO  SignInPage:66 - test@gmail.com user information has been sent to textbox.
+2020-04-15 21:28:20 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:28:20 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //a[@id='login_button']] was found
+2020-04-15 21:28:20 INFO  SignInPage:49 - Sign In button is clicked.
+2020-04-15 21:28:20 INFO  SignInPage:170 - Comparing error message with actual and expected worked fine.
+2020-04-15 21:28:22 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> id: main_user_login] was found
+2020-04-15 21:28:23 INFO  SignInPage:187 - User information textbox has been cleared.
+2020-04-15 21:28:23 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:28:23 INFO  SignInPage:206 - Password textbox has been cleared.
+2020-04-15 21:28:23 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> id: main_user_login] was found
+2020-04-15 21:28:23 INFO  SignInPage:66 - 9873541259 user information has been sent to textbox.
+2020-04-15 21:28:23 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:28:23 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //a[@id='login_button']] was found
+2020-04-15 21:28:24 INFO  SignInPage:49 - Sign In button is clicked.
+2020-04-15 21:28:24 INFO  SignInPage:170 - Comparing error message with actual and expected worked fine.
+2020-04-15 21:28:26 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> id: main_user_login] was found
+2020-04-15 21:28:26 INFO  SignInPage:187 - User information textbox has been cleared.
+2020-04-15 21:28:26 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:28:26 INFO  SignInPage:206 - Password textbox has been cleared.
+2020-04-15 21:28:26 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> id: main_user_login] was found
+2020-04-15 21:28:26 INFO  SignInPage:66 - 987354125 user information has been sent to textbox.
+2020-04-15 21:28:27 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:28:27 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //a[@id='login_button']] was found
+2020-04-15 21:28:27 INFO  SignInPage:49 - Sign In button is clicked.
+2020-04-15 21:28:29 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> id: main_user_login] was found
+2020-04-15 21:28:29 INFO  SignInPage:187 - User information textbox has been cleared.
+2020-04-15 21:28:29 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:28:29 INFO  SignInPage:206 - Password textbox has been cleared.
+2020-04-15 21:28:30 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> id: main_user_login] was found
+2020-04-15 21:28:30 INFO  SignInPage:66 - apple.singh@hotmail.com user information has been sent to textbox.
+2020-04-15 21:28:30 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:28:30 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //a[@id='login_button']] was found
+2020-04-15 21:28:30 INFO  SignInPage:49 - Sign In button is clicked.
+2020-04-15 21:28:31 INFO  SignInPage:170 - Comparing error message with actual and expected worked fine.
+2020-04-15 21:28:33 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> id: main_user_login] was found
+2020-04-15 21:28:34 INFO  SignInPage:187 - User information textbox has been cleared.
+2020-04-15 21:28:34 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (215aab3f-a2d7-4cff-acb8-02a43fd86cca)] -> xpath: //input[@type='password']] was found
+2020-04-15 21:28:34 INFO  SignInPage:206 - Password textbox has been cleared.
+2020-04-15 21:29:05 INFO  BasePage:36 - Given string title Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues contains in expected title; which is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues.
+2020-04-15 21:29:15 INFO  BasePage:141 - Mouse overed on[[FirefoxDriver: firefox on WINDOWS (ddc9c1d7-0c1a-4a1c-bcb9-4c7e4ca945f1)] -> xpath: //button[contains(@class,'moe-btn-allow moe-allow-class')]]
+2020-04-15 21:29:15 INFO  HomePage:50 - Allow button from the pop-up alert window is clicked with no issues.
+2020-04-15 21:29:16 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (ddc9c1d7-0c1a-4a1c-bcb9-4c7e4ca945f1)] -> id: autocomplete] was found
+2020-04-15 21:29:16 INFO  SearchProductPage:53 - Setting up search works fine.
+2020-04-15 21:29:16 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (ddc9c1d7-0c1a-4a1c-bcb9-4c7e4ca945f1)] -> xpath: //a[@class='srch_action btn orange']] was found
+2020-04-15 21:29:19 INFO  SearchProductPage:65 - Clicking the search works fine.
+2020-04-15 21:29:21 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (ddc9c1d7-0c1a-4a1c-bcb9-4c7e4ca945f1)] -> id: autocomplete] was found
+2020-04-15 21:29:21 INFO  SearchProductPage:78 - Clearing up the textbox works fine.
+2020-04-15 21:29:21 INFO  BasePage:36 - Given string title Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues contains in expected title; which is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues.
+2020-04-15 21:29:21 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (ddc9c1d7-0c1a-4a1c-bcb9-4c7e4ca945f1)] -> xpath: //div[@class='countNo']/p] was found
+2020-04-15 21:29:21 INFO  SearchProductResultsPage:42 - Number of products are 19044
+2020-04-15 21:29:21 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (ddc9c1d7-0c1a-4a1c-bcb9-4c7e4ca945f1)] -> xpath: //div[@class='column col3 search_blocks']//h2] was found
+2020-04-15 21:29:21 INFO  SearchProductResultsPage:68 - First product name is Nike Men NIKE AIR RELENTLESS 6 MSL Sport Shoes
+2020-04-15 21:29:21 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (ddc9c1d7-0c1a-4a1c-bcb9-4c7e4ca945f1)] -> xpath: //div[@class='column col3 search_blocks']//span[@class='p_price']] was found
+2020-04-15 21:29:21 INFO  SearchProductResultsPage:85 - Price of first product name from search is Rs.4500
+2020-04-15 21:29:21 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (ddc9c1d7-0c1a-4a1c-bcb9-4c7e4ca945f1)] -> id: autocomplete] was found
+2020-04-15 21:29:21 INFO  SearchProductPage:53 - Setting up search works fine.
+2020-04-15 21:29:22 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (ddc9c1d7-0c1a-4a1c-bcb9-4c7e4ca945f1)] -> xpath: //a[@class='srch_action btn orange']] was found
+2020-04-15 21:29:25 INFO  SearchProductPage:65 - Clicking the search works fine.
+2020-04-15 21:29:25 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (ddc9c1d7-0c1a-4a1c-bcb9-4c7e4ca945f1)] -> id: autocomplete] was found
+2020-04-15 21:29:26 INFO  SearchProductPage:78 - Clearing up the textbox works fine.
+2020-04-15 21:29:26 INFO  BasePage:36 - Given string title Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues contains in expected title; which is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues.
+2020-04-15 21:29:26 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (ddc9c1d7-0c1a-4a1c-bcb9-4c7e4ca945f1)] -> xpath: //div[@class='countNo']/p] was found
+2020-04-15 21:29:26 INFO  SearchProductResultsPage:42 - Number of products are 193903
+2020-04-15 21:29:26 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (ddc9c1d7-0c1a-4a1c-bcb9-4c7e4ca945f1)] -> xpath: //div[@class='column col3 search_blocks']//h2] was found
+2020-04-15 21:29:26 INFO  SearchProductResultsPage:68 - First product name is AZU105AA1 Compatiable with all smart phone smart watch
+2020-04-15 21:29:26 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (ddc9c1d7-0c1a-4a1c-bcb9-4c7e4ca945f1)] -> xpath: //div[@class='column col3 search_blocks']//span[@class='p_price']] was found
+2020-04-15 21:29:26 INFO  SearchProductResultsPage:85 - Price of first product name from search is Rs.999
+2020-04-15 21:29:26 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (ddc9c1d7-0c1a-4a1c-bcb9-4c7e4ca945f1)] -> id: autocomplete] was found
+2020-04-15 21:29:26 INFO  SearchProductPage:53 - Setting up search works fine.
+2020-04-15 21:29:26 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (ddc9c1d7-0c1a-4a1c-bcb9-4c7e4ca945f1)] -> xpath: //a[@class='srch_action btn orange']] was found
+2020-04-15 21:29:31 INFO  SearchProductPage:65 - Clicking the search works fine.
+2020-04-15 21:29:31 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (ddc9c1d7-0c1a-4a1c-bcb9-4c7e4ca945f1)] -> id: autocomplete] was found
+2020-04-15 21:29:31 INFO  SearchProductPage:78 - Clearing up the textbox works fine.
+2020-04-15 21:29:31 INFO  BasePage:36 - Given string title Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues contains in expected title; which is Online Shopping Store | Buy Online: Mobiles Phone, Computers, Tablets Pc, Home Appliances | Lowest Price shop in India at ShopClues.
+2020-04-15 21:29:31 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (ddc9c1d7-0c1a-4a1c-bcb9-4c7e4ca945f1)] -> xpath: //div[@class='countNo']/p] was found
+2020-04-15 21:29:31 INFO  SearchProductResultsPage:42 - Number of products are 542179
+2020-04-15 21:29:31 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (ddc9c1d7-0c1a-4a1c-bcb9-4c7e4ca945f1)] -> xpath: //div[@class='column col3 search_blocks']//h2] was found
+2020-04-15 21:29:31 INFO  SearchProductResultsPage:68 - First product name is Apple iPhone X (3 GB/64 GB/Silver)
+2020-04-15 21:29:31 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (ddc9c1d7-0c1a-4a1c-bcb9-4c7e4ca945f1)] -> xpath: //div[@class='column col3 search_blocks']//span[@class='p_price']] was found
+2020-04-15 21:29:31 INFO  SearchProductResultsPage:85 - Price of first product name from search is Rs.81000
+2020-04-15 21:30:03 INFO  BasePage:36 - Given string title Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues contains in expected title; which is Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues.
+2020-04-15 21:30:13 INFO  BasePage:141 - Mouse overed on[[FirefoxDriver: firefox on WINDOWS (1675c798-b45f-4aed-8b82-7ab51634d436)] -> xpath: //button[contains(@class,'moe-btn-allow moe-allow-class')]]
+2020-04-15 21:30:13 INFO  HomePage:50 - Allow button from the pop-up alert window is clicked with no issues.
+2020-04-15 21:30:13 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (1675c798-b45f-4aed-8b82-7ab51634d436)] -> id: autocomplete] was found
+2020-04-15 21:30:14 INFO  BasePage:141 - Mouse overed on[[FirefoxDriver: firefox on WINDOWS (1675c798-b45f-4aed-8b82-7ab51634d436)] -> id: autocomplete]
+2020-04-15 21:30:14 INFO  SearchProductPage:101 - Setting up search works fine.
+2020-04-15 21:30:14 INFO  SearchProductPage:114 - Pressing Enter works fine.
+2020-04-15 21:30:17 INFO  BasePage:71 - [[FirefoxDriver: firefox on WINDOWS (1675c798-b45f-4aed-8b82-7ab51634d436)] -> xpath: //div[@class='countNo']/p] was found
+2020-04-15 21:30:17 INFO  SearchProductResultsPage:42 - Number of products are 18863
